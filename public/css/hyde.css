@@ -248,3 +248,33 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+.dur{
+	color: rgba(0,0,0,.4); 
+	font-size: 12px; 
+	vertical-align: text-top;
+}
+
+
+.list p {
+  line-height: 0.5;
+  padding-left: 25px;
+}
+
+.clip{
+  display: flex;
+  margin-bottom: -18px;
+}
+.clip1{
+  float: left;
+  /*border: solid;
+  border-color: black;*/
+}
+.clip2{
+  float: right;
+  /*border: solid;
+  border-color: black;*/
+}
+.clip2 h3{
+  margin-top: -1px;
+  margin-left: 5px;
+}
