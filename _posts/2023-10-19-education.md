@@ -6,7 +6,7 @@ title: Education
 <div class="clip">
   <div class="clip1">&#128206;</div>
   <div class="clip2">
-    <h3> M.S. / Ph.D in Compuer Science and Engineering 
+    <h3> M.S. / Ph.D in Computer Science and Engineering 
       <span class="dur">2022.9 -</span>
     </h3>
   </div>

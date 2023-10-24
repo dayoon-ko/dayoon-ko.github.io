@@ -41,7 +41,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -262,6 +262,9 @@ a.sidebar-nav-item:focus {
 	vertical-align: text-top;
 }
 
+.list {
+  padding-bottom: 10px;
+}
 
 .list p {
   line-height: 0.5;
@@ -270,7 +273,7 @@ a.sidebar-nav-item:focus {
 
 .clip{
   display: flex;
-  margin-bottom: -18px;
+  margin-bottom: -15px;
 }
 .clip1{
   float: left;
