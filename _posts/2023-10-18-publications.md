@@ -13,7 +13,7 @@ title: Publications
   <p><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim<br></p>
   <p>EMNLP 2023<br></p>
   <p>
-    <a href="">[pdf]</a> 
+    <a href="https://arxiv.org/abs/2310.14159">[pdf]</a> 
     <a href="https://github.com/dayoon-ko/ExFunTube">[code]</a> 
     <a href="https://exfuntube.github.io/">[dataset]</a>
   </p>
@@ -29,7 +29,7 @@ title: Publications
   <p><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim<br></p>
   <p>ACL 2024<br></p>
   <p>
-    <a href="">[pdf]</a> 
+    <a href="https://arxiv.org/abs/2406.05606">[pdf]</a> 
     <a href="https://github.com/dayoon-ko/GrowOVER">[code]</a> 
   </p>
 </div>
