@@ -273,13 +273,10 @@ a.sidebar-nav-item:focus {
 }
 
 .clip{
-  height: 20px;
-}
-.clip > div{
+  height: 30px;
   display: flex;
   justify-content: start;
 }
 .clip1 {
   padding-top: 10px;
-  padding-bottom: -10px;
 }
