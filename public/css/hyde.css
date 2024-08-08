@@ -273,11 +273,15 @@ a.sidebar-nav-item:focus {
   padding-left: 20px;
 }
 
+.item{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .clip{
   height: 30px;
   display: flex;
   justify-content: start;
-  flex-wrap: wrap;
 }
 
 .clip1 {
