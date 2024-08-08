@@ -280,6 +280,6 @@ a.sidebar-nav-item:focus {
   justify-content: start;
 }
 .clip1 {
-  margin-top: 10px;
-  margin-bottom: -10px;
+  padding-top: 10px;
+  padding-bottom: -10px;
 }
