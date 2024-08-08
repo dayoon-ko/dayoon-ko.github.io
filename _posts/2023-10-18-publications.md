@@ -3,10 +3,6 @@ layout: post
 title: Publications
 ---
 
-<div class="clip">
-  <div class="clip1">&#128206;</div>
-  <div class="clip2"><h3> Can Language Models Laugh at YouTube Short-form Videos?</h3></div>
-</div>
 
 <div class="clip">
   <div class="clip1">&#128206;</div>
@@ -23,6 +19,10 @@ title: Publications
   </p>
 </div>
 
+<div class="clip">
+  <div class="clip1">&#128206;</div>
+  <div class="clip2"><h3> Can Language Models Laugh at YouTube Short-form Videos?</h3></div>
+</div>
 
 <div class="list">
   <p></p>
