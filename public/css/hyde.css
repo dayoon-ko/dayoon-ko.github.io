@@ -62,7 +62,7 @@ html {
 .sidebar img {
   margin: 0;
   display: block;
-  /*width: 200px;*/
+  width: 220px;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -73,9 +73,9 @@ html {
     width: 18rem;
     text-align: left;
   }
-  /*.sidebar-about img {
-    width: 200px;
-  }*/
+  .sidebar-about img {
+    width: 220px;
+  }
 }
 
 /* Sidebar links */
