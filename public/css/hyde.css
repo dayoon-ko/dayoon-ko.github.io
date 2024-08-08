@@ -279,3 +279,7 @@ a.sidebar-nav-item:focus {
   display: flex;
   justify-content: start;
 }
+.clip1 {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
