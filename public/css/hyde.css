@@ -280,8 +280,11 @@ a.sidebar-nav-item:focus {
 }
 
 .clip1 {
-  padding-top: 12px;
+  padding-top: 10px;
   padding-right: 2px;
+}
+.clip2 {
+  margin-top: -5px;
 }
 
 .post-title{
