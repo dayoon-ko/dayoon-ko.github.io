@@ -4,9 +4,11 @@ title: Publications
 ---
 
 
-<div class="clip">
-  <div class="clip1">&#128206;</div>
-  <div class="clip2"><h4> GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h4></div>
+<div class="item">
+  <div class="clip">
+    <div class="clip1">&#128206;</div>
+    <div class="clip2"><h4> GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h4></div>
+  </div>
   <div class="list">
     <p><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim<br></p>
     <p>ACL 2024<br></p>
