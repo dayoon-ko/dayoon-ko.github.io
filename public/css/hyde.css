@@ -284,6 +284,7 @@ a.sidebar-nav-item:focus {
   display: flex;
   justify-content: start;
   flex-wrap: nowrap;
+  padding: -5px;
 }
 
 .clip1 {
