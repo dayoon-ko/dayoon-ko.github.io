@@ -72,10 +72,11 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    text-align: center;
   }
   .sidebar-about img {
     width: 220px;
+    
   }
 }
 
