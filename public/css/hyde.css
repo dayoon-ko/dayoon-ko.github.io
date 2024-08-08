@@ -75,7 +75,6 @@ html {
   }
   .sidebar-about img {
     width: 200px;
-    border-radius: 15%
   }
 }
 
@@ -88,8 +87,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: Verdana, Helvetica;
-  font-size: 3.25rem;
+  font-family: "PT Sans", Verdana, Helvetica;
+  font-size: 1em;
 }
 
 /* Sidebar nav */
