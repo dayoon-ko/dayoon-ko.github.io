@@ -267,13 +267,13 @@ a.sidebar-nav-item:focus {
 }
 
 .list p {
-  line-height: 0.5;
-  padding-left: 25px;
+  line-height: 0.25;
+  padding-left: 30px;
 }
 
 .clip{
   display: flex;
-  margin-bottom: -15px;
+  margin-bottom: 0px;
 }
 .clip1{
   float: left;
