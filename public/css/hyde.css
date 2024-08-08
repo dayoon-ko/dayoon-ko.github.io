@@ -77,8 +77,14 @@ html {
   }
   .sidebar-about img {
     width: 220px;
-
   }
+}
+
+.img{
+    height: 220px;
+    width: 220px;
+    display: flex;
+    justify-content: center;
 }
 
 /* Sidebar links */
