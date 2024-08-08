@@ -23,7 +23,7 @@ title: Publications
   <div class="clip1">&#128206;</div>
   <div class="clip2"><h3> Can Language Models Laugh at YouTube Short-form Videos?</h3></div>
 </div>
-href
+
 <div class="list">
   <p></p>
   <p><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim<br></p>
@@ -31,7 +31,7 @@ href
   <p>
     <a href="https://arxiv.org/abs/2310.14159">[pdf]</a> 
     <a href="https://github.com/dayoon-ko/ExFunTube">[code]</a> 
-    <a ="https://exfuntube.github.io/">[dataset]</a>
+    <a href="https://exfuntube.github.io/">[dataset]</a>
   </p>
 </div>
 
