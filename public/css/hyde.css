@@ -273,7 +273,7 @@ a.sidebar-nav-item:focus {
 
 .clip{
   display: flex;
-  /*margin-bottom: -15px;*/
+  margin-bottom: -15px;
 }
 .clip1{
   float: left;
