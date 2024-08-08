@@ -268,8 +268,8 @@ a.sidebar-nav-item:focus {
 }
 
 .list p {
-  line-height: 3px;
-  padding-left: 20px;
+  line-height: 10px;
+  padding-left: 100px;
 }
 
 .clip{
@@ -278,6 +278,7 @@ a.sidebar-nav-item:focus {
 }
 .clip1{
   float: left;
+  padding-top:5px;
   /*border: solid;
   border-color: black;*/
 }
