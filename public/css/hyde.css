@@ -274,6 +274,8 @@ a.sidebar-nav-item:focus {
 
 .clip{
   height: 20px;
+}
+.clip > div{
   display: flex;
   justify-content: start;
 }
