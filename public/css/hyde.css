@@ -263,18 +263,18 @@ a.sidebar-nav-item:focus {
 }
 
 .list {
+  padding-top: 3px;
   padding-bottom: 10px;
 }
 
 .list p {
-  line-height: 1px;
-  padding-left: 10px;
+  line-height: 3px;
+  padding-left: 20px;
 }
 
 .clip{
   display: flex;
   justify-content: start;
-  margin-bottom: -15px;
 }
 .clip1{
   float: left;
