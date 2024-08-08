@@ -19,7 +19,7 @@ title: Publications
   </p>
 </div>
 
-<div class="clip">
+<div class="clip" >
   <div class="clip1">&#128206;</div>
   <div class="clip2"><h4> Can Language Models Laugh at YouTube Short-form Videos?</h4></div>
 </div>

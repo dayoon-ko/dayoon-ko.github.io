@@ -273,9 +273,7 @@ a.sidebar-nav-item:focus {
 }
 
 .clip{
+  height: 100px;
   display: flex;
   justify-content: start;
-}
-.clip1{
-  margin-top: 4px;
 }
