@@ -6,7 +6,7 @@ title: Publications
 
 <div class="clip">
   <div class="clip1">&#128206;</div>
-  <div class="clip2"><h3> GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h3></div>
+  <div class="clip2"><h4> GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h4></div>
 </div>
 
 <div class="list">
@@ -21,7 +21,7 @@ title: Publications
 
 <div class="clip">
   <div class="clip1">&#128206;</div>
-  <div class="clip2"><h3> Can Language Models Laugh at YouTube Short-form Videos?</h3></div>
+  <div class="clip2"><h4> Can Language Models Laugh at YouTube Short-form Videos?</h4></div>
 </div>
 
 <div class="list">

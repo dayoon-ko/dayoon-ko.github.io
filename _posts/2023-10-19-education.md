@@ -6,9 +6,9 @@ title: Education
 <div class="clip">
   <div class="clip1">&#128206;</div>
   <div class="clip2">
-    <h3> M.S. / Ph.D in Computer Science and Engineering 
+    <h4> M.S. / Ph.D in Computer Science and Engineering 
       <span class="dur">2022.9 -</span>
-    </h3>
+    </h4>
   </div>
 </div>
 
@@ -21,9 +21,9 @@ title: Education
 <div class="clip">
   <div class="clip1">&#128206;</div>
   <div class="clip2">
-    <h3> B.S. in Computer Science and Engineering 
+    <h4> B.S. in Computer Science and Engineering 
     <span class="dur">2018.3 - 2022.8</span>
-    </h3>
+    </h4>
   </div>
 </div>
 
