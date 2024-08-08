@@ -268,7 +268,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 10px;
 }
 
-.list p {
+.list div p {
   line-height: 5px;
   padding-left: 20px;
 }
