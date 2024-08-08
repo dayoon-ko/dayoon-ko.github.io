@@ -14,8 +14,8 @@ title: Education
     </div>
   </div>
   <div class="list"> 
-    <p>Seoul National University</p>
-    <p>Advisor: <a href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a></p>
+    <div><p>Seoul National University</p></div>
+    <div><p>Advisor: <a href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a></p></div>
   </div>
 </div>
 
