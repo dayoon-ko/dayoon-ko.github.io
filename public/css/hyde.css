@@ -282,6 +282,7 @@ a.sidebar-nav-item:focus {
   height: 30px;
   display: flex;
   justify-content: start;
+  flex-wrap: nowrap;
 }
 
 .clip1 {
