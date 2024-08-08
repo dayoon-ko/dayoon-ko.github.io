@@ -60,7 +60,7 @@ html {
   background-color: #202020;
 }
 .sidebar img {
-  margin: 0;
+  margin: -10px;
   display: block;
   width: 220px;
 }
