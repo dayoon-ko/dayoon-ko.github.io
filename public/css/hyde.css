@@ -75,6 +75,7 @@ html {
   }
   .sidebar-about img {
     width: 200px;
+    border-radius: 30%
   }
 }
 
