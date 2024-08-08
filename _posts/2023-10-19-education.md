@@ -29,8 +29,8 @@ title: Education
     </div>
   </div>
   <div class="list">
-    <p>Younsei University</p>
-    <p>Cumulative GPA: 4.12/4.3 (Rank 1/28)</p>
+    <p><div>Younsei University</div></p>
+    <p><div>Cumulative GPA: 4.12/4.3 (Rank 1/28)</div></p>
 </div>
 </div>
 
