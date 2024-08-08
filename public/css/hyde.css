@@ -273,7 +273,7 @@ a.sidebar-nav-item:focus {
 }
 
 .clip{
-  height: 100px;
+  height: 20px;
   display: flex;
   justify-content: start;
 }
