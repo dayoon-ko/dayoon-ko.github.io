@@ -279,14 +279,13 @@ a.sidebar-nav-item:focus {
 }
 
 .clip{
-  height: 30px;
   display: flex;
   justify-content: start;
   flex-wrap: nowrap;
 }
 
 .clip1 {
-  padding-top: 10px;
+  padding-top: 28px;
   padding-right: 4px;
 }
 .clip2 {
