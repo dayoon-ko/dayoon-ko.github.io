@@ -3,6 +3,21 @@ layout: post
 title: Publications
 ---
 
+<div class="item">
+  <div class="clip">
+    <div class="clip1">&#128206;</div>
+    <div class="clip2"><h4> DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h4></div>
+  </div>
+  <div class="list">
+    <div><p>Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim<br></p></div>
+    <div><p>ACL 2024<br></p></div>
+    <div><p>
+      <a >[pdf]</a> 
+      <a >[code]</a> 
+    </p></div>
+  </div>
+</div>
+
 
 <div class="item">
   <div class="clip">
