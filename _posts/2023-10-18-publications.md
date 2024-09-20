@@ -10,7 +10,7 @@ title: Publications
   </div>
   <div class="list">
     <div><p>Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim<br></p></div>
-    <div><p>ACL 2024<br></p></div>
+    <div><p>EMNLP 2024<br></p></div>
     <div><p>
       <a >[pdf]</a> 
       <a >[code]</a> 
