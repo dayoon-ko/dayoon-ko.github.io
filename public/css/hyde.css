@@ -74,7 +74,11 @@ html {
     text-align: center;
   }
   .sidebar-about img {
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 200px;
+>>>>>>> f292111 (Update posts)
   }
 }
 
