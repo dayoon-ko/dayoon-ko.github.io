@@ -11,7 +11,7 @@ Hi! I'm Dayoon Ko, a Ph.D. student in CSE at Seoul National university, advised 
 
 Recent News!
 ======
-Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024!
+Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024 Main!
 
 
 
