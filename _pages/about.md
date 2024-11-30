@@ -12,3 +12,26 @@ Hi! I'm Dayoon Ko, a Ph.D. student in CSE at Seoul National university, advised 
 Recent News!
 ======
 Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024 Main!
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
