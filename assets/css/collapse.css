@@ -15,3 +15,9 @@
     display: none;
     padding : 5px;
 }
+h1 {
+    font-size: 20px;
+} 
+h1 p{
+    font-size: 15px;
+}
