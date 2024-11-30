@@ -13,26 +13,25 @@ Recent News!
 ======
 Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024 Main!
 
+Publications
+======
+* DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
+  * Jinyoung Kim, Dayoon Ko, Gunhee Kim
+  * EMNLP 2024
+
+* GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?
+  * Dayoon Ko, Jinyoung Kim, Hahyeon Choi, Gunhee Kim
+  * ACL 2024
+
+* Can Language Models Laugh at YouTube Short-form Videos?
+  * Dayoon Ko, Sangho Lee, Gunhee Kim
+  * EMNLP 2023
+
 Education
 ======
-* M.S
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.S/Ph.D in Computer Science Engineering (2022.9 - )
+  * Seoul National University
+  * Advisor: Gunhee Kim
+* B.S. in Computer Science Engineering (2018.3 - 2022.8)
+  * Yonsei University
+  * GPA: 4.12/4.30 (Rank: 1/28)
