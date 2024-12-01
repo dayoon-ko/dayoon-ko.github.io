@@ -23,7 +23,7 @@ Publications
   <div class="pub_detail" style="height:160px; margin-left:10px;">
     <p>Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
     <p>EMNLP 2024</p>
-    <p>This work addressed challenges in resolving temporally evolving mentions to entities. It was key to improve retrieval for enhancing RAG accuracy in dynamic environments.</p>
+    <p>This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
   </div>
 </div>
 
