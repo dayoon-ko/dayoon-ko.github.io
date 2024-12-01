@@ -45,9 +45,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
-    <p style="margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
-    <p style="margin-bottom:2px">EMNLP 2023</p>
-    <p style="margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
+    <p style="font-size:15px; margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
+    <p style="font-size:15px; margin-bottom:2px">EMNLP 2023</p>
+    <p style="font-size:15px; margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
   </div>
 </div>
 
