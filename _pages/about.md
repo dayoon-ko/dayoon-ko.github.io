@@ -42,7 +42,7 @@ Publications
 <h5 style="margin-top:0px">Can Language Models Laugh at YouTube Short-form Videos?</h5>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
   <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
-    <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
+    <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
     <p style="margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
