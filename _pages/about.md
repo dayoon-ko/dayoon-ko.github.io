@@ -32,7 +32,7 @@ Publications
   <div class="pub_img" style="width:280px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/growover.png" alt="">
   </div>
-  <div class="pub_detail" style="margin-left:10px; width:400px">
+  <div class="pub_detail" style="margin-left:10px; max-width:400px">
     <p style="font-size:15px; margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
     <p style="font-size:15px; margin-bottom:2px">ACL 2024</p>
     <p style="font-size:15px; margin-bottom:2px">We propose continually updated QA & dialogue benchmark to evaluate whether LLM can handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
