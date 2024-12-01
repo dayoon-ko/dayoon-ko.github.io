@@ -21,9 +21,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; max-width:400px">
-    <p style="font-size:12px; margin-bottom:2px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
-    <p style="font-size:12px; margin-bottom:2px">EMNLP 2024</p>
-    <p style="font-size:12px; margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
+    <p style="font-size:13px; margin-bottom:2px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
+    <p style="font-size:13px; margin-bottom:2px">EMNLP 2024</p>
+    <p style="font-size:13px; margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
   </div>
 </div>
 
@@ -33,9 +33,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/growover.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; max-width:400px">
-    <p style="font-size:12px; margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
-    <p style="font-size:12px; margin-bottom:2px">ACL 2024</p>
-    <p style="font-size:12px; margin-bottom:2px">By proposing QA and dialogue benchmarks that are continuously and automatically updated, we evaluate the LLM's ability to handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
+    <p style="font-size:13px; margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
+    <p style="font-size:13px; margin-bottom:2px">ACL 2024</p>
+    <p style="font-size:13px; margin-bottom:2px">By proposing QA and dialogue benchmarks that are continuously and automatically updated, we evaluate the LLM's ability to handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
   </div>
 </div>
 
@@ -45,9 +45,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; max-width:400px">
-    <p style="font-size:12px; margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
-    <p style="font-size:12px; margin-bottom:2px">EMNLP 2023</p>
-    <p style="font-size:12px; margin-bottom:2px">A video humor explanation benchmark via a multimodal-filtering pipeline to evaluate LLMs’ understanding of complex multimodal tasks like humor. To give video input into textual format, we generate several frame captions and filtering them based on video segments to enhance LLMs with vision capabilities.</p>
+    <p style="font-size:13px; margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
+    <p style="font-size:13px; margin-bottom:2px">EMNLP 2023</p>
+    <p style="font-size:13px; margin-bottom:2px">A video humor explanation benchmark via a multimodal-filtering pipeline to evaluate LLMs’ understanding of complex multimodal tasks like humor. To give video input into textual format, we generate several frame captions and filtering them based on video segments to enhance LLMs with vision capabilities.</p>
   </div>
 </div>
 
