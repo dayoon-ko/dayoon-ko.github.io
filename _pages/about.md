@@ -33,9 +33,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
-    <p style="margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
-    <p style="margin-bottom:2px">ACL 2024</p>
-    <p style="margin-bottom:2px">We propose continually updated QA & dialogue benchmark to evaluate whether LLM can handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
+    <p style="font-size:15px; margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
+    <p style="font-size:15px; margin-bottom:2px">ACL 2024</p>
+    <p style="font-size:15px; margin-bottom:2px">We propose continually updated QA & dialogue benchmark to evaluate whether LLM can handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
   </div>
 </div>
 
@@ -53,10 +53,10 @@ Publications
 
 Education
 ======
-M.S/Ph.D in Computer Science Engineering (2022.9 - )
+<p style="margin-bottom:2px">M.S/Ph.D in Computer Science Engineering (2022.9 - )</p>
 * Seoul National University
 * Advisor: Gunhee Kim
 
-B.S. in Computer Science Engineering (2018.3 - 2022.8)
+<p style="margin-bottom:2px">B.S. in Computer Science Engineering (2018.3 - 2022.8)</p>
 * Yonsei University
 * GPA: 4.12/4.30 (Rank: 1/28)
