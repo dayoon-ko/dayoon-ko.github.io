@@ -17,7 +17,7 @@ Publications
 ======
 <h4 style="margin-top:0px">DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h4>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
-  <div class="pub_img" style="width:200px; object-fit:cover;">
+  <div class="pub_img" style="width:250px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
@@ -41,7 +41,7 @@ Publications
 
 <h4 style="margin-top:0px">Can Language Models Laugh at YouTube Short-form Videos?</h4>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
-  <div class="pub_img" style="width:200px; object-fit:cover;">
+  <div class="pub_img" style="width:250px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
