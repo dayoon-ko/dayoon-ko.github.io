@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Dayoon Ko, a Ph.D. student in CSE at Seoul National university, advised by Gunhee Kim. My primary research interest lies in model evaluation for several challenges.  My research has focused on retrieval-augmented generation (RAG) and multimodal learning, emphasizing enhancing the scalability and adaptability of large language models (LLMs). Moving forward, I aim to apply RAG techniques to video-based LLMs, exploring how these models can integrate and process both text and video data for more effective understanding and generation.
+<p style="font-size:15px;">Hi! I'm Dayoon Ko, a Ph.D. student in CSE at Seoul National university, advised by Gunhee Kim. My primary research interest lies in model evaluation for several challenges.  My research has focused on retrieval-augmented generation (RAG) and multimodal learning, emphasizing enhancing the scalability and adaptability of large language models (LLMs). Moving forward, I aim to apply RAG techniques to video-based LLMs, exploring how these models can integrate and process both text and video data for more effective understanding and generation.</p>
 
 Recent News!
 ======
-Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024 Main!
+<p style="font-size:15px;">Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" was accepted in EMNLP 2024 Main!</p>
 
 Publications
 ======
@@ -21,9 +21,9 @@ Publications
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
   </div>
   <div class="pub_detail" style="margin-left:10px; width:400px">
-    <p style="margin-bottom:2px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
-    <p style="margin-bottom:2px">EMNLP 2024</p>
-    <p style="margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
+    <p style="font-size:15px; margin-bottom:2px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
+    <p style="font-size:15px; margin-bottom:2px">EMNLP 2024</p>
+    <p style="font-size:15px; margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
   </div>
 </div>
 
