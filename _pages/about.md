@@ -21,7 +21,7 @@ Publications
     <img src="https://dayoon-ko.github.io/images/profile.png" alt="">
   </div>
   <div class="pub_detail" style="height:60px; margin-left:10px;">
-    <p>Jinyoung Kim, Dayoon Ko, Gunhee Kim</p>
+    <p>Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
     <p>EMNLP 2024</p>
   </div>
 </div>
