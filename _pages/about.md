@@ -32,6 +32,7 @@ Education
 M.S/Ph.D in Computer Science Engineering (2022.9 - )
 * Seoul National University
 * Advisor: Gunhee Kim
+
 B.S. in Computer Science Engineering (2018.3 - 2022.8)
 * Yonsei University
 * GPA: 4.12/4.30 (Rank: 1/28)
