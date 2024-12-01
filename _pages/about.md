@@ -16,11 +16,11 @@ Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" w
 Publications
 ======
 <div class="pub_item" style="height:200px; padding-bottom:20px;">
-  <h3>DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h3>
   <div class="pub_img" style="float:left; object-fit: cover; height:60px; width:200px;">
     <img src="https://dayoon-ko.github.io/images/profile.png" alt="">
   </div>
   <div class="pub_detail" style="display:inline-block; height:60px; margin-left:10px;">
+    <h3>DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h3>
     <p>Jinyoung Kim, Dayoon Ko, Gunhee Kim</p>
     <p>EMNLP 2024</p>
   </div>
