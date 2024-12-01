@@ -35,7 +35,7 @@ Publications
   <div class="pub_detail" style="margin-left:10px; max-width:260px">
     <p style="font-size:13px; margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
     <p style="font-size:13px; margin-bottom:2px">ACL 2024</p>
-    <p style="font-size:13px; margin-bottom:2px">We propose QA & dialogue benchmarks that are continuously and automatically updated, to evaluate whether LLM can handle evolving knowledge. By making LLM evaluate its confidence, we enable RAG systems to adapt to new knowledge without retraining.</p>
+    <p style="font-size:13px; margin-bottom:2px">We propose QA & dialogue benchmarks that are continuously and automatically updated, to assess whether LLM can handle evolving knowledge. By making LLM evaluate its confidence, we enable RAG systems to adapt to new knowledge without retraining.</p>
   </div>
 </div>
 
