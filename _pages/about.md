@@ -21,7 +21,7 @@ Publications
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
   </div>
   <div class="pub_detail" style="height:160px; margin-left:10px;">
-    <p style="padding-bottom:0px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
+    <p style="padding-bottom:0px; margin-bottom:0px">Jinyoung Kim, <b>Dayoon Ko</b>, Gunhee Kim</p>
     <p>EMNLP 2024</p>
     <p>This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
   </div>
