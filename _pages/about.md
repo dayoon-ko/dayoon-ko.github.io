@@ -54,9 +54,9 @@ Publications
 Education
 ======
 <p style="font-size:15px; margin-bottom:2px">M.S/Ph.D in Computer Science Engineering (2022.9 - )</p>
-* Seoul National University
-* Advisor: Gunhee Kim
+<p style="font-size:15px;">Seoul National University</p>
+<p style="font-size:15px; margin-bottom:5px">Advisor: Gunhee Kim</p>
 
 <p style="font-size:15px; margin-bottom:2px">B.S. in Computer Science Engineering (2018.3 - 2022.8)</p>
-* Yonsei University
-* GPA: 4.12/4.30 (Rank: 1/28)
+<p style="font-size:15px;">Yonsei University</p>
+<p style="font-size:15px; margin-bottom:5px">GPA: 4.12/4.30 (Rank: 1/28)</p>
