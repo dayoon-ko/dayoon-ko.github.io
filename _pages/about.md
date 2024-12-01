@@ -39,7 +39,7 @@ Publications
   </div>
 </div>
 
-<p style="font-size:15px; margin-bottom:2px; margin-top:0px"><b>Can Language Models Laugh at YouTube Short-form Videos?</h3>
+<p style="font-size:15px; margin-bottom:2px; margin-top:0px"><b>Can Language Models Laugh at YouTube Short-form Videos?</b></p>
 <div class="pub_item" style="display:inline-flex; flex-wrap:wrap; padding-bottom:20px;">
   <div class="pub_img" style="width:280px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="">
