@@ -47,7 +47,7 @@ Publications
   <div class="pub_detail" style="margin-left:10px; width:400px">
     <p style="font-size:15px; margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
     <p style="font-size:15px; margin-bottom:2px">EMNLP 2023</p>
-    <p style="font-size:15px; margin-bottom:2px">This work develops a video humor explanation benchmark using a multimodal-filtering pipeline to evaluate LLMs’ understanding of complex multimodal tasks like humor. To give video input into textual format, we generate several frame captions and filtering them based on video segments to enhance LLMs with vision capabilities.</p>
+    <p style="font-size:15px; margin-bottom:2px">A video humor explanation benchmark via a multimodal-filtering pipeline to evaluate LLMs’ understanding of complex multimodal tasks like humor. To give video input into textual format, we generate several frame captions and filtering them based on video segments to enhance LLMs with vision capabilities.</p>
   </div>
 </div>
 
