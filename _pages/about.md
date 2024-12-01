@@ -15,7 +15,7 @@ Recent News!
 
 Publications
 ======
-<p style="margin-top:0px"><b>DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</b></p>
+<p style="font-size:15px; margin-bottom:2px; margin-top:0px"><b>DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</b></p>
 <div class="pub_item" style="display:inline-flex; flex-wrap:wrap; padding-bottom:20px;">
   <div class="pub_img" style="width:280px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
