@@ -15,7 +15,7 @@ Recent News!
 
 Publications
 ======
-<h3 style="margin-top:0px">DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h3>
+<h5 style="margin-top:0px">DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</h5>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
   <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
@@ -27,7 +27,7 @@ Publications
   </div>
 </div>
 
-<h3 style="margin-top:0px">GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h3>
+<h5 style="margin-top:0px">GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h5>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
   <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
@@ -39,7 +39,7 @@ Publications
   </div>
 </div>
 
-<h3 style="margin-top:0px">Can Language Models Laugh at YouTube Short-form Videos?</h3>
+<h5 style="margin-top:0px">Can Language Models Laugh at YouTube Short-form Videos?</h5>
 <div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
   <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
