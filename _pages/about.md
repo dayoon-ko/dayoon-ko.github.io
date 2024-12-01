@@ -16,8 +16,8 @@ Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" w
 Publications
 ======
 DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
-<div>
-  <div class="pub_img" style="float:left; width:200px; height:100px;">
+<div class="pub_item" style="height:60;">
+  <div class="pub_img" style="float:left; width:200px; height:60;">
     <img src="https://dayoon-ko.github.io/images/profile.png" alt="">
   </div>
   </div clas="pub_detail" style="display:inline-block; height:100px; margin-left:10px;">
