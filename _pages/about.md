@@ -15,23 +15,23 @@ Our paper "DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG" w
 
 Publications
 ======
-* DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
-  * Jinyoung Kim, Dayoon Ko, Gunhee Kim
-  * EMNLP 2024
+DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
+* Jinyoung Kim, Dayoon Ko, Gunhee Kim
+* EMNLP 2024
 
-* GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?
-  * Dayoon Ko, Jinyoung Kim, Hahyeon Choi, Gunhee Kim
-  * ACL 2024
+GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?
+* Dayoon Ko, Jinyoung Kim, Hahyeon Choi, Gunhee Kim
+* ACL 2024
 
-* Can Language Models Laugh at YouTube Short-form Videos?
-  * Dayoon Ko, Sangho Lee, Gunhee Kim
-  * EMNLP 2023
+Can Language Models Laugh at YouTube Short-form Videos?
+* Dayoon Ko, Sangho Lee, Gunhee Kim
+* EMNLP 2023
 
 Education
 ======
-* M.S/Ph.D in Computer Science Engineering (2022.9 - )
-  * Seoul National University
-  * Advisor: Gunhee Kim
-* B.S. in Computer Science Engineering (2018.3 - 2022.8)
-  * Yonsei University
-  * GPA: 4.12/4.30 (Rank: 1/28)
+M.S/Ph.D in Computer Science Engineering (2022.9 - )
+* Seoul National University
+* Advisor: Gunhee Kim
+B.S. in Computer Science Engineering (2018.3 - 2022.8)
+* Yonsei University
+* GPA: 4.12/4.30 (Rank: 1/28)
