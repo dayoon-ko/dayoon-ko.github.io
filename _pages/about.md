@@ -20,7 +20,7 @@ DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
   <div class="pub_img" style="float:left; width:200px; height:60;">
     <img src="https://dayoon-ko.github.io/images/profile.png" alt="">
   </div>
-  </div class="pub_detail" style="display:inline-block; height:100px; margin-left:10px;">
+  <div class="pub_detail" style="display:inline-block; height:100px; margin-left:10px;">
     <p>Jinyoung Kim, Dayoon Ko, Gunhee Kim</p>
     <p>EMNLP 2024</p>
   </div>
