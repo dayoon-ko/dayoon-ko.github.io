@@ -55,7 +55,7 @@ Education
 ======
 <p style="font-size:15px; margin-bottom:2px"><b>M.S/Ph.D in Computer Science Engineering (2022.9 - )</b></p>
 <p style="font-size:15px; margin-bottom:2px">Seoul National University</p>
-<p style="font-size:15px; margin-bottom:10px">Advisor: Gunhee Kim</p>
+<p style="font-size:15px; margin-bottom:12px">Advisor: Gunhee Kim</p>
 
 <p style="font-size:15px; margin-bottom:2px"><b>B.S. in Computer Science Engineering (2018.3 - 2022.8)</b></p>
 <p style="font-size:15px; margin-bottom:2px">Yonsei University</p>
