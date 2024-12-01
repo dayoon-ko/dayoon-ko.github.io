@@ -28,7 +28,7 @@ Publications
 </div>
 
 <h3 style="margin-top:0px">GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h3>
-<div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
+<div class="pub_item" style="display:inline-flex; padding-bottom:20px;">
   <div class="pub_img" style="width:280px; object-fit:cover;">
     <img src="https://dayoon-ko.github.io/images/growover.png" alt="">
   </div>
