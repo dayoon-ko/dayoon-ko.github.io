@@ -27,13 +27,29 @@ Publications
   </div>
 </div>
 
-GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?
-* Dayoon Ko, Jinyoung Kim, Hahyeon Choi, Gunhee Kim
-* ACL 2024
+<h3 style="margin-top:0px">GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</h3>
+<div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
+  <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
+    <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
+  </div>
+  <div class="pub_detail" style="margin-left:10px; width:400px">
+    <p style="margin-bottom:2px"><b>Dayoon Ko</b>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</p>
+    <p style="margin-bottom:2px">ACL 2024</p>
+    <p style="margin-bottom:2px">We propose continually updated QA & dialogue benchmark to evaluate whether LLM can handle dynamic knowledge. We train a classifier using the last hidden state of the LLM to assess its confience, enabling RAG systems to adapt to new knowledge without retraining.</p>
+  </div>
+</div>
 
-Can Language Models Laugh at YouTube Short-form Videos?
-* Dayoon Ko, Sangho Lee, Gunhee Kim
-* EMNLP 2023
+<h3 style="margin-top:0px">Can Language Models Laugh at YouTube Short-form Videos?</h3>
+<div class="pub_item" style="display: inline-flex; padding-bottom:20px;">
+  <div class="pub_img" style="height:200px; width:200px; object-fit:cover;">
+    <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="">
+  </div>
+  <div class="pub_detail" style="margin-left:10px; width:400px">
+    <p style="margin-bottom:2px"><b>Dayoon Ko</b>, Sangho Lee, Gunhee Kim</p>
+    <p style="margin-bottom:2px">EMNLP 2023</p>
+    <p style="margin-bottom:2px">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improve retrieval, enhancing RAG accuracy in dynamic environments.</p>
+  </div>
+</div>
 
 Education
 ======
