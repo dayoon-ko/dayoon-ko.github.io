@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/2025-iclr-hybriddeepsearcher
 excerpt: 'A scalable search agent that dynamically integrates parallel and sequential strategies for multi-hop QA with RAG, trained on HDS-QA dataset.'
 date: 2025-09-19
-venue: 'ICLR 2026 (Under Review)'
+venue: 'Under Review'
 paperurl: 'https://openreview.net/forum?id=rXpTZyucal'
 citation: 'Anonymous Authors. (2025). &quot;Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning.&quot; <i>ICLR 2026 Conference Submission</i>.'
 authors: 'Authors (Under Review)'
