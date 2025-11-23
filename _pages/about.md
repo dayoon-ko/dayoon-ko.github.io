@@ -160,7 +160,7 @@ redirect_from:
   </ul>
   In short, I’d like to build models that can learn new knowledge as it emerges and remain reasonably reliable in the kinds of noisy, fast-changing environments where people actually use them.
   <br>
-  Outside of research, I’m usually dancing or doing CrossFit. Staying active keeps my brain happy 😊.
+  Outside of research, I’m usually dancing or doing CrossFit. Staying active keeps my brain happy!
 </div>
 
 
