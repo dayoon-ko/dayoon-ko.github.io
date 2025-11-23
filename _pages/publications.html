@@ -5,8 +5,72 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.publications-header {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #4a90e2;
+}
+
+.publications-header p {
+  margin: 0;
+  font-size: 15px;
+  color: #555;
+}
+
+.publications-header a {
+  color: #4a90e2;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.publications-header a:hover {
+  color: #2c5aa0;
+  text-decoration: underline;
+}
+
+.pub-category-title {
+  font-size: 24px;
+  color: #2c3e50;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 8px;
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+
+.archive__item {
+  margin-bottom: 30px;
+  padding: 25px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.archive__item-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.archive__item-excerpt {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+}
+</style>
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="publications-header">
+    <p>You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a>.</p>
+  </div>
 {% endif %}
 
 {% include base_path %}
@@ -20,7 +84,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 class="pub-category-title">{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
