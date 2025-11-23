@@ -150,17 +150,16 @@ redirect_from:
 
 <div class="intro-section">
   Hi! I’m Dayoon Ko, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim.
-  <br><br>
+  <br>
   I’m broadly interested in how large language models can keep up with a world where information and media change very quickly. Lately, I’ve been working on three kinds of problems:
-  <br><br>
+  <br>
   <ul>
     <li>how to help search agents scale their reasoning and retrieval abilities</li>
     <li>how to help LLMs and RAG systems stay updated as facts or entities shift</li>
     <li>how to help models make sense of messy, real-world multimodal data</li>
   </ul>
-  <br>
   In short, I’d like to build models that can learn new knowledge as it emerges and remain reasonably reliable in the kinds of noisy, fast-changing environments where people actually use them.
-  <br><br>
+  <br>
   Outside of research, I’m usually dancing or doing CrossFit. Staying active keeps my brain happy 😊.
 </div>
 
