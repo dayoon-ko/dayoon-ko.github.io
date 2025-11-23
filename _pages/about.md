@@ -149,22 +149,41 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-Hi! I’m **Dayoon Ko**, a Ph.D. candidate in Computer Science and Engineering at **Seoul National University**, advised by **Prof. Gunhee Kim**.
+  <p>
+    Hi! I’m <strong>Dayoon Ko</strong>, a Ph.D. candidate in Computer Science and Engineering at
+    <strong>Seoul National University</strong>, advised by <strong>Prof. Gunhee Kim</strong>.
+  </p>
 
-I focus on a central question:  
-**How can we build language models that keep up with a world where information changes faster than models can learn it?**
+  <p>
+    I focus on a central question:<br>
+    <strong>How can we build language models that keep up with a world where information changes faster than models can learn it?</strong>
+  </p>
 
-My work tackles two tightly connected problems:
+  <p>
+    My work tackles two tightly connected problems:
+  </p>
 
-1. **Dynamic knowledge adaptation**  
-   Understanding why LLMs and RAG systems break when entities, facts, and contexts shift in real time, and designing methods that let them update, retrieve, and reason **beyond static snapshots of the world**.
+  <ol>
+    <li>
+      <strong>Dynamic knowledge adaptation</strong> – understanding why LLMs and RAG systems break when entities, facts,
+      and contexts shift in real time, and designing methods that let them update, retrieve, and reason
+      <strong>beyond static snapshots of the world</strong>.
+    </li>
+    <li>
+      <strong>Robust multimodal understanding</strong> – enabling models to interpret
+      <strong>messy, fast-paced video data</strong>, such as short-form clips where humor, events, and cues emerge
+      too quickly or too implicitly for traditional multimodal models.
+    </li>
+  </ol>
 
-2. **Robust multimodal understanding**  
-   Enabling models to interpret **messy, fast-paced video data**, such as short-form clips where humor, events, and cues emerge too quickly or too implicitly for traditional multimodal models.
-
-Ultimately, I aim to develop LLMs that can **rapidly absorb new knowledge** and **reason over multimodal signals** even when they are **noisy, partial, or shifting**.
-I want to build models that remain reliable **not just in controlled benchmarks, but in the fast-changing environments where people actually use them**.
+  <p>
+    Ultimately, I aim to develop LLMs that can <strong>rapidly absorb new knowledge</strong> and
+    <strong>reason over multimodal signals</strong> even when they are <strong>noisy, partial, or shifting</strong>.
+    I want to build models that remain reliable <strong>not just in controlled benchmarks, but in the fast-changing
+    environments where people actually use them</strong>.
+  </p>
 </div>
+
 
 <div class="news-section">
   <h2>🔥 Recent News</h2>
