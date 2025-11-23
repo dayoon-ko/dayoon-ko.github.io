@@ -73,6 +73,17 @@ redirect_from:
 </div>
 
 <div class="cv-section">
+  <h2>Experience</h2>
+  
+  <div class="cv-item">
+    <div class="cv-item-title">Research Intern</div>
+    <div class="cv-item-institution">LG AI Research, Superintelligence Lab</div>
+    <div class="cv-item-detail">Working on advanced reasoning and retrieval systems for large language models</div>
+    <div class="cv-item-period">March 2025 - Present</div>
+  </div>
+</div>
+
+<div class="cv-section">
   <h2>Research Interests</h2>
   <ul style="font-size: 15px; line-height: 1.8; color: #555;">
     <li>Retrieval-Augmented Generation (RAG)</li>

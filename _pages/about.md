@@ -149,19 +149,81 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-Hi! I'm <strong>Dayoon Ko</strong>, a Ph.D. student in Computer Science and Engineering at Seoul National University, advised by Professor Gunhee Kim. My research focuses on <strong>model evaluation</strong>, <strong>retrieval-augmented generation (RAG)</strong>, and <strong>multimodal learning</strong>, with the goal of enhancing the scalability and adaptability of large language models (LLMs). 
+Hi! I’m Dayoon Ko, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim. 
 
-I am particularly interested in developing methods that enable LLMs to effectively integrate and process both text and video data, pushing the boundaries of multimodal understanding and generation.
+I focus on a central question:
+**How can we build language models that keep up with a world where information changes faster than models can learn it?**
+
+My work tackles two tightly connected problems:
+(1) Dynamic knowledge adaptation — understanding why LLMs and RAG systems break when entities, facts, and contexts shift in real time, and designing methods that let them update, retrieve, and reason beyond static snapshots of the world.
+
+(2) Robust multimodal understanding — enabling models to interpret messy, fast-paced video data, such as short-form clips where humor, events, and cues emerge too quickly or too implicitly for traditional multimodal models.
+
+Ultimately, I aim to develop LLMs that can rapidly absorb new knowledge and reason over multimodal signals even when they are noisy, partial, or shifting. I want to build models that remain reliable not just in controlled benchmarks, but in the fast-changing environments where people actually use them.
 </div>
 
 <div class="news-section">
   <h2>🔥 Recent News</h2>
-  <div class="news-item">
-    Our paper <strong>"DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG"</strong> was accepted at <strong>EMNLP 2024 Main</strong>!
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Aug 2025]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong> was publicly released on arXiv!
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[March 2025]</strong> Started research internship at <strong>LG AI Research, Superintelligence Lab</strong>!
   </div>
 </div>
 
 <h2 class="section-title">Selected Publications</h2>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/hybriddeepsearcher.png" alt="HybridDeepSearcher">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</div>
+    <div class="pub-authors">Authors (Under Review)</div>
+    <div class="pub-venue">ICLR 2026 (Under Review)</div>
+    <div class="pub-description">A scalable search agent that dynamically integrates parallel and sequential search strategies for multi-hop QA with RAG. We introduce the HDS-QA training dataset and achieve significant improvements.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://openreview.net/forum?id=rXpTZyucal" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/dayoon-ko/HybridDeepSearcher" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/gradnormir.png" alt="GradNormIR">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">When Should Dense Retrievers Be Updated in Evolving Corpora? Detecting Out-of-Distribution Corpora Using GradNormIR</div>
+    <div class="pub-authors"><strong>Dayoon Ko</strong>, Jinyoung Kim, Sohyeon Kim, Jinhyuk Kim, Jaehoon Lee, Seonghak Song, Minyoung Lee, Gunhee Kim</div>
+    <div class="pub-venue">ACL 2025 Findings</div>
+    <div class="pub-description">We propose GradNormIR, an unsupervised method that detects out-of-distribution shifts in document collections using gradient norms, enabling timely updates of dense retrievers without manual intervention.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2506.01877" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/dayoon-ko/gradnormir" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/mac.png" alt="MAC">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates</div>
+    <div class="pub-authors">Jaewoo Ahn, Heeseung Yun, <strong>Dayoon Ko</strong>, Gunhee Kim</div>
+    <div class="pub-venue">ACL 2025</div>
+    <div class="pub-description">We introduce MAC benchmark for evaluating the robustness of pre-trained multimodal models against adversarial text updates, revealing vulnerabilities in vision-language models like CLIP.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2505.22943" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/ahnjaewoo/MAC" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-img">
@@ -172,6 +234,10 @@ I am particularly interested in developing methods that enable LLMs to effective
     <div class="pub-authors">Jinyoung Kim, <strong>Dayoon Ko</strong>, Gunhee Kim</div>
     <div class="pub-venue">EMNLP 2024</div>
     <div class="pub-description">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improving retrieval, enhancing RAG accuracy in dynamic environments.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2410.11494" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/jiny1623/DynamicER" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
   </div>
 </div>
 
@@ -184,6 +250,10 @@ I am particularly interested in developing methods that enable LLMs to effective
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</div>
     <div class="pub-venue">ACL 2024</div>
     <div class="pub-description">We propose QA & dialogue benchmarks that are continuously and automatically updated to assess whether LLMs can handle evolving knowledge. By making LLMs evaluate their confidence, we enable RAG systems to adapt to new knowledge without retraining.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://aclanthology.org/2024.acl-long.181/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/dayoon-ko/GrowOVER" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
   </div>
 </div>
 
@@ -196,6 +266,21 @@ I am particularly interested in developing methods that enable LLMs to effective
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Sangho Lee, Gunhee Kim</div>
     <div class="pub-venue">EMNLP 2023</div>
     <div class="pub-description">A video humor explanation benchmark via a multimodal-filtering pipeline to evaluate LLMs' understanding of complex multimodal tasks like humor. We generate several frame captions and filter them based on video segments to enhance LLMs with vision capabilities.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://aclanthology.org/2023.emnlp-main.176/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 15px;">[Paper]</a>
+      <a href="https://github.com/dayoon-ko/ExFunTube" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
+
+<div class="edu-section">
+  <h2 class="section-title">Experiences</h2>
+  
+  <div class="edu-item">
+    <div class="edu-degree">Research Intern</div>
+    <div class="edu-school">LG AI Research, Superintelligence Lab</div>
+    <div class="edu-detail">Working on advanced reasoning and retrieval systems for large language models</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">March 2025 - Present</div>
   </div>
 </div>
 
@@ -203,14 +288,16 @@ I am particularly interested in developing methods that enable LLMs to effective
   <h2 class="section-title">Education</h2>
   
   <div class="edu-item">
-    <div class="edu-degree">M.S./Ph.D. in Computer Science and Engineering (2022.9 - Present)</div>
+    <div class="edu-degree">M.S./Ph.D. in Computer Science and Engineering</div>
     <div class="edu-school">Seoul National University</div>
     <div class="edu-detail">Advisor: Professor Gunhee Kim</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">September 2022 - Present</div>
   </div>
 
   <div class="edu-item">
-    <div class="edu-degree">B.S. in Computer Science and Engineering (2018.3 - 2022.8)</div>
+    <div class="edu-degree">B.S. in Computer Science and Engineering</div>
     <div class="edu-school">Yonsei University</div>
     <div class="edu-detail">GPA: 4.12/4.30 (Rank: 1/28)</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">March 2018 - August 2022</div>
   </div>
 </div>
