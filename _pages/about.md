@@ -149,39 +149,19 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-  <p>
-    Hi! I’m <strong>Dayoon Ko</strong>, a Ph.D. candidate in Computer Science and Engineering at
-    <strong>Seoul National University</strong>, advised by <strong>Prof. Gunhee Kim</strong>.
-  </p>
-
-  <p>
-    I focus on a central question:<br>
-    <strong>How can we build language models that keep up with a world where information changes faster than models can learn it?</strong>
-  </p>
-
-  <p>
-    My work tackles two tightly connected problems:
-  </p>
-
-  <ol>
-    <li>
-      <strong>Dynamic knowledge adaptation</strong> – understanding why LLMs and RAG systems break when entities, facts,
-      and contexts shift in real time, and designing methods that let them update, retrieve, and reason
-      <strong>beyond static snapshots of the world</strong>.
-    </li>
-    <li>
-      <strong>Robust multimodal understanding</strong> – enabling models to interpret
-      <strong>messy, fast-paced video data</strong>, such as short-form clips where humor, events, and cues emerge
-      too quickly or too implicitly for traditional multimodal models.
-    </li>
-  </ol>
-
-  <p>
-    Ultimately, I aim to develop LLMs that can <strong>rapidly absorb new knowledge</strong> and
-    <strong>reason over multimodal signals</strong> even when they are <strong>noisy, partial, or shifting</strong>.
-    I want to build models that remain reliable <strong>not just in controlled benchmarks, but in the fast-changing
-    environments where people actually use them</strong>.
-  </p>
+  Hi! I’m Dayoon Ko, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim.
+  <br><br>
+  I’m broadly interested in how large language models can keep up with a world where information and media change very quickly. Lately, I’ve been working on three kinds of problems:
+  <br><br>
+  <ul>
+    <li>how to help search agents scale their reasoning and retrieval abilities</li>
+    <li>how to help LLMs and RAG systems stay updated as facts or entities shift</li>
+    <li>how to help models make sense of messy, real-world multimodal data</li>
+  </ul>
+  <br>
+  In short, I’d like to build models that can learn new knowledge as it emerges and remain reasonably reliable in the kinds of noisy, fast-changing environments where people actually use them.
+  <br><br>
+  Outside of research, I’m usually dancing or doing CrossFit. Staying active keeps my brain happy 😊.
 </div>
 
 
