@@ -181,7 +181,7 @@ redirect_from:
 
 <div class="pub-item">
   <div class="pub-img">
-    <img src="https://dayoon-ko.github.io/images/hds.pdf" alt="HybridDeepSearcher">
+    <img src="https://dayoon-ko.github.io/images/hds.png" alt="HybridDeepSearcher">
   </div>
   <div class="pub-detail">
     <div class="pub-title">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</div>
