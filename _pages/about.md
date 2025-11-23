@@ -158,7 +158,7 @@ redirect_from:
     <li>how to help LLMs and RAG systems stay updated as facts or entities shift</li>
     <li>how to help models make sense of messy, real-world multimodal data</li>
   </ul>
-  In short, I’d like to build models that can learn new knowledge as it emerges and remain reasonably reliable in the kinds of noisy, fast-changing environments where people actually use them.
+  In short, I’d like to build models that can adapt to fast-changing environments where people actually use them.
   <br>
   Outside of research, I’m usually dancing or doing CrossFit. Staying active keeps my brain happy!
 </div>
