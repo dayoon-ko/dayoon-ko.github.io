@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/2025-iclr-hybriddeepsearcher
 excerpt: 'A scalable search agent that dynamically integrates parallel and sequential strategies for multi-hop QA with RAG, trained on HDS-QA dataset.'
 date: 2025-09-19
