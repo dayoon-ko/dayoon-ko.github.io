@@ -167,7 +167,7 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Jan 2026]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong>, completed during my internship at LG AI Research, was accepted at <strong>ICLR 2026</strong>! 🎉
+    <strong>[Jan 2026]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong>, completed during my internship at LG AI Research, has been accepted at <strong>ICLR 2026</strong>! 🎉
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
