@@ -167,7 +167,7 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Aug 2025]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong> was publicly released on arXiv!
+    <strong>[Jan 2026]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong> was accepted at <strong>ICLR 2026</strong>! 🎉
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
@@ -185,8 +185,8 @@ redirect_from:
   </div>
   <div class="pub-detail">
     <div class="pub-title">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</div>
-    <div class="pub-authors">Authors (Under Review)</div>
-    <!-- <div class="pub-venue">ICLR 2026 (Under Review)</div> -->
+    <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Haeju Park, Sohyeon Kim, Dahyun Lee, Yongrae Jo, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
+    <div class="pub-venue">ICLR 2026</div>
     <div class="pub-description">A scalable search agent that dynamically integrates parallel and sequential search strategies for multi-hop QA with RAG. We introduce the HDS-QA training dataset and achieve significant improvements.</div>
     <div style="margin-top: 10px;">
       <a href="https://openreview.net/forum?id=rXpTZyucal" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
