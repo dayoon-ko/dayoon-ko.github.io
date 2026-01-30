@@ -154,9 +154,9 @@ redirect_from:
   I’m broadly interested in how large language models can keep up with a world where information and media change very quickly. Lately, I’ve been working on three kinds of problems:
   <br>
   <ul>
-    <li>how to help search agents scale their reasoning and retrieval abilities</li>
-    <li>how to help LLMs and RAG systems stay updated as facts or entities shift</li>
-    <li>how to help models make sense of messy, real-world multimodal data</li>
+    <li>how to help <strong>search agents scale</strong> their reasoning and retrieval abilities</li>
+    <li>how to help LLMs and RAG systems <strong>stay updated</strong> as facts or entities shift</li>
+    <li>how to help models make sense of <strong>messy, real-world multimodal data</strong></li>
   </ul>
   In short, I’d like to build models that can remain reliable in the kinds of noisy, fast-changing environments where people actually use them.
   <br>
