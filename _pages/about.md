@@ -149,7 +149,7 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-  Hi! I’m Dayoon Ko, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim.
+  Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim.
   <br>
   I’m broadly interested in how large language models can keep up with a world where information and media change very quickly. Lately, I’ve been working on three kinds of problems:
   <br>
@@ -160,7 +160,7 @@ redirect_from:
   </ul>
   In short, I’d like to build models that can remain reliable in the kinds of noisy, fast-changing environments where people actually use them.
   <br>
-  Outside of research, I enjoy dancing 🎶 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy! 😊
+  Outside of research, I enjoy dancing 🎶 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
 
 
