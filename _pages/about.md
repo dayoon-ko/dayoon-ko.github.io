@@ -191,7 +191,7 @@ redirect_from:
     <div style="margin-top: 10px;">
       <a href="https://openreview.net/forum?id=rXpTZyucal" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/HybridDeepSearcher" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
-      <a href="https://hybriddeepsearcher.github.io/" target="_blank"style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Project Page]</a>
+      <a href="https://hybriddeepsearcher.github.io/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Project Page]</a>
     </div>
   </div>
 </div>
