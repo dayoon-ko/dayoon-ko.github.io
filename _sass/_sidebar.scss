@@ -90,7 +90,9 @@
   }
 
   img {
+    width: 100%;
     max-width: 175px;
+    box-sizing: border-box;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -257,4 +259,9 @@
       text-decoration: underline;
     }
   }
+}
+
+/* keep long links (e.g. email) inside the sidebar */
+.author__urls li {
+  overflow-wrap: anywhere;
 }
