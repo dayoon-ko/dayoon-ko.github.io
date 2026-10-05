@@ -152,18 +152,11 @@ redirect_from:
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Prof. Gunhee Kim</a>.
   Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
   <br>
-  I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing environments where people actually use them.
+  I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing multimodal environments where people actually use them.
   <br>
-  <strong>These days</strong>, I’m working on:
-  <ul>
-    <li><strong>Multimodal RAG and search agents</strong> that retrieve and reason over images and videos, not just text</li>
-    <li><strong>On-device RAG and search agents</strong> that work under tight memory and compute budgets</li>
-  </ul>
-  <strong>Previously</strong>, I worked on:
-  <ul>
-    <li><strong>Search agents</strong>: scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings</li>
-    <li><strong>Keeping LLMs and RAG systems up to date</strong> as facts, entities, and corpora evolve</li>
-  </ul>
+  Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
+  I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
+  <br>
   Outside of research, I enjoy dancing 🎶 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
 
