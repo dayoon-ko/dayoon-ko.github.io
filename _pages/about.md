@@ -164,7 +164,7 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min's group</a>! 🐻
+    <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Prof. Sewon Min's group! 🐻
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> <strong>"ScholarCatalyst"</strong>, a benchmark for retrieving papers that inspire new research, is out on <a href="https://arxiv.org/abs/2610.02202" target="_blank">arXiv</a>!
