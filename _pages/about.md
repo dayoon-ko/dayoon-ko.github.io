@@ -233,7 +233,7 @@ redirect_from:
     <div class="pub-title">When Is Enough Not Enough? Illusory Completion in Search Agents</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
     <div class="pub-venue">COLM 2026 Workshop</div>
-    <div class="pub-description">Search agents often believe multi-constraint tasks are complete despite unresolved or violated constraints. We introduce the Epistemic Ledger to diagnose this illusory completion, and LiveLedger, an inference-time constraint tracker that improves accuracy by up to 11.6 points.</div>
+    <div class="pub-description">Search agents often conclude a multi-constraint task is complete while a constraint remains unverified, which we call illusory completion. Our Epistemic Ledger tracks evidence and the agent's stated belief for each constraint along the trajectory, revealing three failure types (assumed, refuted, unchecked) across 13 agents. Exposing constraint states with LiveLedger, a lightweight 4B tracker, lets the same agents answer 4.4–16.1 points more questions correctly.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2602.07549" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/illusory_completion" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
