@@ -151,12 +151,12 @@ redirect_from:
 <div class="intro-section">
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Prof. Gunhee Kim</a>.
   Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
-  <br>
+  <br><br>
   I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing multimodal environments where people actually use them.
-  <br>
+  <br><br>
   Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
   I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
-  <br>
+  <br><br>
   Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
 
@@ -175,15 +175,9 @@ redirect_from:
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Sep 2026]</strong> <strong>"When Is Enough Not Enough? Illusory Completion in Search Agents"</strong> has been accepted at a <strong>COLM 2026 Workshop</strong>!
   </div>
-  <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Jan 2026]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong>, completed during my internship at LG AI Research, has been accepted at <strong>ICLR 2026</strong>! 🎉
-  </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
   </div> -->
-  <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[March 2025]</strong> Started research internship at <strong>LG AI Research, Superintelligence Lab</strong>!
-  </div>
 </div>
 
 <h2 class="section-title">Selected Publications</h2>
