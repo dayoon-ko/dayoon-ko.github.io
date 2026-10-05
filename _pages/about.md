@@ -157,7 +157,7 @@ redirect_from:
   Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
   I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
   <br>
-  Outside of research, I enjoy dancing 🎶 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
+  Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
 
 
