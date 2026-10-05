@@ -49,7 +49,7 @@ redirect_from:
 .pub-item {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 20px 36px;
   padding: 25px;
   margin-bottom: 30px;
   background-color: #ffffff;
@@ -77,7 +77,7 @@ redirect_from:
 
 .pub-detail {
   flex: 1;
-  min-width: 260px;
+  min-width: 240px;
 }
 
 .pub-title {
