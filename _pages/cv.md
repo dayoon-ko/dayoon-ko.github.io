@@ -76,10 +76,17 @@ redirect_from:
   <h2>Experience</h2>
   
   <div class="cv-item">
+    <div class="cv-item-title">Visiting Researcher</div>
+    <div class="cv-item-institution">UC Berkeley</div>
+    <div class="cv-item-detail">Hosted by Professor Sewon Min</div>
+    <div class="cv-item-period">October 2026 - Present</div>
+  </div>
+
+  <div class="cv-item">
     <div class="cv-item-title">Research Intern</div>
     <div class="cv-item-institution">LG AI Research, Superintelligence Lab</div>
-    <div class="cv-item-detail">Working on advanced reasoning and retrieval systems for large language models</div>
-    <div class="cv-item-period">March 2025 - Present</div>
+    <div class="cv-item-detail">Worked on agentic reasoning and retrieval systems for large language models</div>
+    <div class="cv-item-period">March 2025 - September 2026</div>
   </div>
 </div>
 

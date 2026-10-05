@@ -150,6 +150,7 @@ redirect_from:
 
 <div class="intro-section">
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by Prof. Gunhee Kim.
+  Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
   <br>
   I’m broadly interested in how large language models can keep up with a world where information and media change very quickly. Lately, I’ve been working on three kinds of problems:
   <br>
@@ -167,6 +168,18 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Prof. Sewon Min's group! 🐻
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Oct 2026]</strong> <strong>"ScholarCatalyst"</strong>, a benchmark for retrieving papers that inspire new research, is out on <a href="https://arxiv.org/abs/2610.02202" target="_blank">arXiv</a>!
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Sep 2026]</strong> <strong>"K-BrowseComp"</strong> has been accepted at <strong>EMNLP 2026 Findings</strong>! 🎉
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Sep 2026]</strong> <strong>"When Is Enough Not Enough? Illusory Completion in Search Agents"</strong> has been accepted at a <strong>COLM 2026 Workshop</strong>!
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Jan 2026]</strong> Our paper <strong>"Hybrid Deep Searcher"</strong>, completed during my internship at LG AI Research, has been accepted at <strong>ICLR 2026</strong>! 🎉
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
@@ -178,6 +191,55 @@ redirect_from:
 </div>
 
 <h2 class="section-title">Selected Publications</h2>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/scholarcatalyst.png" alt="ScholarCatalyst">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research</div>
+    <div class="pub-authors">Sohyeon Kim, Yoonho Lee, Bo Liu, <strong>Dayoon Ko</strong>, Rulin Shao, Seungone Kim, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn</div>
+    <div class="pub-venue">arXiv 2026</div>
+    <div class="pub-description">A literature inspiration retrieval benchmark grounded in researchers' firsthand knowledge of their own projects: 184 researchers who led 207 recent CS projects verified 894 research questions, labeling which prior papers did or could have advanced their work.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2610.02202" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
+      <a href="https://github.com/stanford-iris-lab/ScholarCatalyst" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Code]</a>
+      <a href="https://huggingface.co/datasets/ScholarCatalyst/ScholarCatalyst" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Dataset]</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/kbrowsecomp.png" alt="K-BrowseComp">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts</div>
+    <div class="pub-authors">Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, <strong>Dayoon Ko</strong>, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, Seungone Kim</div>
+    <div class="pub-venue">EMNLP 2026 Findings</div>
+    <div class="pub-description">A 400-problem web-browsing agent benchmark grounded in Korean contexts, with a 300-problem subset verified by native Korean speakers. Frontier LLMs reach only 30–46% on the verified subset, a substantial drop from BrowseComp.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2606.02404" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
+      <a href="https://github.com/prometheus-eval/K-BrowseComp" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/illusory_completion.png" alt="Illusory Completion">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">When Is Enough Not Enough? Illusory Completion in Search Agents</div>
+    <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
+    <div class="pub-venue">COLM 2026 Workshop</div>
+    <div class="pub-description">Search agents often believe multi-constraint tasks are complete despite unresolved or violated constraints. We introduce the Epistemic Ledger to diagnose this illusory completion, and LiveLedger, an inference-time constraint tracker that improves accuracy by up to 11.6 points.</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2602.07549" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
+      <a href="https://github.com/dayoon-ko/illusory_completion" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-img">
@@ -280,10 +342,17 @@ redirect_from:
   <h2 class="section-title">Experiences</h2>
   
   <div class="edu-item">
+    <div class="edu-degree">Visiting Researcher</div>
+    <div class="edu-school">UC Berkeley</div>
+    <div class="edu-detail">Hosted by Professor Sewon Min</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">October 2026 - Present</div>
+  </div>
+
+  <div class="edu-item">
     <div class="edu-degree">Research Intern</div>
     <div class="edu-school">LG AI Research, Superintelligence Lab</div>
-    <div class="edu-detail">Working on advanced reasoning and retrieval systems for large language models</div>
-    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">March 2025 - Present</div>
+    <div class="edu-detail">Worked on agentic reasoning and retrieval systems for large language models</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">March 2025 - September 2026</div>
   </div>
 </div>
 
