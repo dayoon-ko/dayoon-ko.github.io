@@ -189,7 +189,7 @@ redirect_from:
   <div class="pub-detail">
     <div class="pub-title">CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
-    <div class="pub-venue">Preprint 2026</div>
+    <div class="pub-venue">arXiv 2026</div>
     <div class="pub-description">A scientific literature search benchmark across all eight arXiv domains, with one diagnostic setting each for implicit, cumulative, and unmet needs. The strongest agents answer 86–87% of standard queries, but fall to 66–68% when requirements are implicit and abstain on at most 53% of the queries no paper satisfies.</div>
     <div style="margin-top: 10px;">
       <a href="https://dayoon-ko.github.io/CompLit/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Project Page]</a>

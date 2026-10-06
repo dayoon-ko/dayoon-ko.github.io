@@ -5,8 +5,8 @@ category: preprints
 permalink: /publication/2026-arxiv-complit
 excerpt: 'A scientific literature search benchmark across all eight arXiv domains, with one diagnostic setting each for implicit, cumulative, and unmet needs.'
 date: 2026-10-06
-venue: 'Preprint 2026'
-citation: 'Dayoon Ko, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee. (2026). &quot;CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs.&quot; <i>Preprint</i>.'
+venue: 'arXiv 2026'
+citation: 'Dayoon Ko, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee. (2026). &quot;CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs.&quot; <i>arXiv preprint</i>.'
 authors: '<strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee'
 ---
 
