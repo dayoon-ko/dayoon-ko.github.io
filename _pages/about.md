@@ -167,7 +167,7 @@ redirect_from:
     <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Prof. Sewon Min's group! 🐻
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out with its <a href="https://huggingface.co/datasets/dayoon/CompLit" target="_blank">dataset</a> and <a href="https://github.com/dayoon-ko/CompLit" target="_blank">code</a>!
+    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out on arXiv!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> <strong>"ScholarCatalyst"</strong>, a benchmark for retrieving papers that inspire new research, is out on <a href="https://arxiv.org/abs/2610.02202" target="_blank">arXiv</a>!
