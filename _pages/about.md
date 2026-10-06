@@ -170,7 +170,7 @@ redirect_from:
     <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out on arXiv!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <strong>"ScholarCatalyst"</strong>, a benchmark for retrieving papers that inspire new research, is out on <a href="https://arxiv.org/abs/2610.02202" target="_blank">arXiv</a>!
+    <strong>[Oct 2026]</strong> <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>, a benchmark for retrieving papers that inspire new research, is out on arXiv!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> has been accepted at <strong>EMNLP 2026 Findings</strong>! 🎉
