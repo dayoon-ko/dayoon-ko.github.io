@@ -167,7 +167,7 @@ redirect_from:
     <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Prof. Sewon Min's group! 🐻
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out on arXiv!
+    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out! Read the <a href="https://dayoon-ko.github.io/files/complit.pdf" target="_blank">paper</a>.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>, a benchmark for retrieving papers that inspire new research, is out on arXiv!
@@ -192,9 +192,10 @@ redirect_from:
   <div class="pub-detail">
     <div class="pub-title">CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
-    <div class="pub-venue">arXiv 2026</div>
+    <div class="pub-venue">Preprint 2026</div>
     <div class="pub-description">A scientific literature search benchmark across all eight arXiv domains, with one diagnostic setting each for implicit, cumulative, and unmet needs. The strongest agents answer 86–87% of standard queries, but fall to 66–68% when requirements are implicit and abstain on at most 53% of the queries no paper satisfies.</div>
     <div style="margin-top: 10px;">
+      <a href="https://dayoon-ko.github.io/files/complit.pdf" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://dayoon-ko.github.io/CompLit/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Project Page]</a>
       <a href="https://github.com/dayoon-ko/CompLit" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Code]</a>
       <a href="https://huggingface.co/datasets/dayoon/CompLit" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Dataset]</a>
