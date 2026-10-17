@@ -54,6 +54,10 @@ redirect_from:
 }
 </style>
 
+<p style="margin-bottom: 30px;">
+  <a href="{{ base_path }}/files/Dayoon_Ko_CV.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; border: 1px solid #4a90e2; border-radius: 4px; color: #4a90e2; text-decoration: none; font-size: 15px;"><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)</a>
+</p>
+
 <div class="cv-section">
   <h2>Education</h2>
   
