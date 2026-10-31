@@ -3,7 +3,7 @@ title: "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cu
 collection: publications
 category: preprints
 permalink: /publication/2026-arxiv-complit
-excerpt: 'A scientific literature search benchmark across all eight arXiv domains, with one diagnostic setting each for implicit, cumulative, and unmet needs.'
+excerpt: 'Can we trust an agent to find the paper we need, or to tell us that none exists? A literature search benchmark for implicit, cumulative, and unmet needs across all eight arXiv domains.'
 date: 2026-10-06
 venue: 'Preprint 2026'
 paperurl: 'https://dayoon-ko.github.io/files/complit.pdf'
@@ -12,6 +12,6 @@ citation: 'Dayoon Ko, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juye
 authors: '<strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee'
 ---
 
-CompLit is a scientific literature search benchmark spanning all eight arXiv domains. Researchers describe what they want in their own terms, which a paper may show only implicitly; their requirements grow as they read; and what they seek may lie where no paper yet exists. CompLit has one diagnostic setting for each of these needs. The strongest agents, Codex (GPT-5.6-Sol) and Claude Code (Opus 4.8), answer 86–87% of Standard queries, yet fall to 66–68% when requirements are implicit, lose another 6 and 15pp as they accumulate, and abstain on at most 53% of the queries no paper satisfies.
+Can we trust an agent to find the paper we need, or to tell us that none exists? Researchers search from what they have read toward what they have not, so their needs are often implicit (a paper shows the property only indirectly), cumulative (requirements grow as they read), and unmet (no paper satisfies them all). CompLit tests agents on each of these needs across all eight arXiv domains. The strongest agents answer 86–87% of Standard queries, yet fall to 66–68% when requirements are implicit. Tracing their search, we find that agents often open the right paper, or the closest one, and still misjudge it: when no paper qualifies, they open the near-miss in over 90% of queries, yet name a paper as a match in 47–82%.
 
 [Paper (PDF)](https://dayoon-ko.github.io/files/complit.pdf) | [Project page](https://dayoon-ko.github.io/CompLit/) | [Code](https://github.com/dayoon-ko/CompLit) | [Dataset](https://huggingface.co/datasets/dayoon/CompLit)
