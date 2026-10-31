@@ -152,7 +152,7 @@ redirect_from:
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Prof. Gunhee Kim</a>.
   Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
   <br><br>
-  I love defining research problems that start from how people actually use language models. My central question is how models find, verify, and use external knowledge, and lately, whether we can trust them with research itself: finding the paper a researcher needs, or saying that none exists.
+  I love defining research problems that start from how people actually use language models. My central question is how models find, verify, and use external knowledge, and more recently, how well they help with research itself, such as finding the papers a researcher needs.
   <br><br>
   Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
   I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
@@ -193,7 +193,7 @@ redirect_from:
     <div class="pub-title">CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
     <div class="pub-venue">Preprint 2026</div>
-    <div class="pub-description">Can we trust an agent to find the paper we need, or to tell us that none exists? CompLit tests agents on researchers' implicit, cumulative, and unmet needs across all eight arXiv domains. Agents often open the right paper, or the closest one, and still misjudge it: when no paper qualifies, they open the near-miss in over 90% of queries, yet name a paper as a match in 47–82%.</div>
+    <div class="pub-description">A literature search benchmark for researchers' implicit, cumulative, and unmet needs across all eight arXiv domains. Agents often open the right paper, or the closest one, and still misjudge it. When no paper qualifies, they name a paper as a match in 47–82% of queries.</div>
     <div style="margin-top: 10px;">
       <a href="https://dayoon-ko.github.io/files/complit.pdf" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://dayoon-ko.github.io/CompLit/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Project Page]</a>
