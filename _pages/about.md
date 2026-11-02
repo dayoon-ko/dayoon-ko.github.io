@@ -171,7 +171,7 @@ redirect_from:
     <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! 🎉
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"Illusory Completion in Search Agents"</strong></a> accepted to a <strong>COLM 2026 Workshop</strong>!
+    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"Illusory Completion in Search Agents"</strong></a> accepted to the <strong>Workshop on Agent Behavior</strong> at COLM 2026!
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
@@ -236,7 +236,7 @@ redirect_from:
   <div class="pub-detail">
     <div class="pub-title">When Is Enough Not Enough? Illusory Completion in Search Agents</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
-    <div class="pub-venue">COLM 2026 Workshop</div>
+    <div class="pub-venue">COLM 2026 Workshop on Agent Behavior</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2602.07549" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/illusory_completion" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>

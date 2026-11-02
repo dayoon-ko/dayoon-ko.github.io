@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2026-colmw-illusorycompletion
 excerpt: 'A correct final answer does not show whether a search agent verified every constraint; we evaluate verification along agent trajectories with the Epistemic Ledger.'
 date: 2026-08-01
-venue: 'COLM 2026 Workshop'
+venue: 'COLM 2026 Workshop on Agent Behavior'
 paperurl: 'https://arxiv.org/abs/2602.07549'
-citation: 'Dayoon Ko, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee. (2026). &quot;When Is Enough Not Enough? Illusory Completion in Search Agents.&quot; <i>COLM 2026 Workshop</i>.'
+citation: 'Dayoon Ko, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee. (2026). &quot;When Is Enough Not Enough? Illusory Completion in Search Agents.&quot; <i>COLM 2026 Workshop on Agent Behavior</i>.'
 authors: '<strong>Dayoon Ko</strong>, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee'
 ---
 
