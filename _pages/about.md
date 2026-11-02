@@ -166,7 +166,7 @@ redirect_from:
     <strong>[Oct 2026]</strong> New paper release! <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>: a benchmark for finding papers that inspire new research.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> Received the <strong>Youlchon AI Star Fellowship</strong>! 🎉
+    <strong>[Sep 2026]</strong> Received the <strong>Yulchon AI Star Fellowship</strong>! 🎉
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
@@ -369,8 +369,8 @@ redirect_from:
 <div class="edu-section">
   <h2 class="section-title">Honors</h2>
   <div class="edu-item">
-    <div class="edu-degree">Youlchon AI Star Fellowship</div>
-    <div class="edu-school">Youlchon Foundation and Seoul National University AI Institute</div>
+    <div class="edu-degree">Yulchon AI Star Fellowship</div>
+    <div class="edu-school">Yulchon Foundation and Seoul National University AI Institute</div>
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">2026</div>
   </div>
   <div class="edu-item">
@@ -380,14 +380,15 @@ redirect_from:
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">Feb 2022</div>
   </div>
   <div class="edu-item">
+    <div class="edu-degree">Academic Excellence Award</div>
+    <div class="edu-school">Yonsei University</div>
+    <div class="edu-detail">For semester grades</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">Fall 2021</div>
+  </div>
+  <div class="edu-item">
     <div class="edu-degree">Udeok Scholarship</div>
     <div class="edu-school">Udeok Foundation</div>
     <div class="edu-detail">Academic excellence scholarship, with full tuition during undergraduate years</div>
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">Feb 2019 - Aug 2022</div>
-  </div>
-  <div class="edu-item">
-    <div class="edu-degree">Academic Excellence Award</div>
-    <div class="edu-school">Yonsei University</div>
-    <div class="edu-detail">For semester grades</div>
   </div>
 </div>

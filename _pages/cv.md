@@ -98,8 +98,8 @@ redirect_from:
   <h2>Honors</h2>
 
   <div class="cv-item">
-    <div class="cv-item-title">Youlchon AI Star Fellowship</div>
-    <div class="cv-item-institution">Youlchon Foundation and Seoul National University AI Institute</div>
+    <div class="cv-item-title">Yulchon AI Star Fellowship</div>
+    <div class="cv-item-institution">Yulchon Foundation and Seoul National University AI Institute</div>
     <div class="cv-item-period">2026</div>
   </div>
 
@@ -111,16 +111,17 @@ redirect_from:
   </div>
 
   <div class="cv-item">
+    <div class="cv-item-title">Academic Excellence Award</div>
+    <div class="cv-item-institution">Yonsei University</div>
+    <div class="cv-item-detail">For semester grades</div>
+    <div class="cv-item-period">Fall 2021</div>
+  </div>
+
+  <div class="cv-item">
     <div class="cv-item-title">Udeok Scholarship</div>
     <div class="cv-item-institution">Udeok Foundation</div>
     <div class="cv-item-detail">Academic excellence scholarship, with full tuition during undergraduate years</div>
     <div class="cv-item-period">February 2019 - August 2022</div>
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-item-title">Academic Excellence Award</div>
-    <div class="cv-item-institution">Yonsei University</div>
-    <div class="cv-item-detail">For semester grades</div>
   </div>
 </div>
 
