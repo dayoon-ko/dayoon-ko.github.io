@@ -147,7 +147,7 @@ redirect_from:
   <br><br>
   I love to define practical problems that appear when people use AI in the real world. Recently, I’ve been focusing on <strong>on-device multimodal retrieval</strong>, searching what people see on their devices under tight memory and compute budgets. Before that, I asked whether <strong>search agents</strong> verify their claims and find the papers researchers need, how LLMs and RAG systems keep up with <strong>evolving knowledge</strong>, and whether models understand short-form <strong>video</strong> humor, an extreme case of implicit multimodal understanding.
   <br><br>
-  Also, I feel excited when I finally find out how to solve the problems! For instance, scaling search agents with parallel and sequential reasoning or tracking which constraints an agent has verified, and detecting when a retriever needs an update.
+  Also, I feel excited when I finally find out how to solve the problems! For instance, scaling search agents with parallel and sequential reasoning or explicitly tracking which constraints an agent has verified, and detecting when a retriever needs an update.
   <br><br>
   Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
