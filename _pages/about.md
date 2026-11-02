@@ -145,7 +145,9 @@ redirect_from:
 <div class="intro-section">
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at SNU, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Gunhee Kim</a>. Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Sewon Min</a>.
   <br><br>
-  I love to define practical problems that appear when people use AI in the real world. Recently, I’ve been focusing on on-device multimodal retrieval, where models search over what people see and keep on their own devices, under tight memory and compute budgets. Before that, I asked whether search agents can find the papers researchers actually need and verify what they claim, and how LLMs and RAG systems keep up with evolving knowledge. Also, I feel excited when I finally find out how to solve the problems! That has meant scaling search agents with parallel and sequential reasoning, and detecting when a retriever needs an update. My first project explored video humor, an extreme case of implicit multimodal understanding.
+  I love to define practical problems that appear when people use AI in the real world. Recently, I’ve been focusing on on-device multimodal retrieval, where models search over what people see on their own devices, under tight memory and compute budgets. Before that, I asked whether search agents can verify what they claim and find the papers researchers actually need, and how LLMs and RAG systems keep up with evolving knowledge. I also evaluated short-form humor understanding, an extreme case of implicit multimodal understanding.
+  <br><br>
+  Also, I feel excited when I finally find out how to solve the problems! For instance, scaling search agents with parallel and sequential reasoning or adding an explicit state tracker, and detecting when a retriever needs an update.
   <br><br>
   Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
