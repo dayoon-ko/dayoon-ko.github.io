@@ -162,10 +162,13 @@ redirect_from:
     <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> 🐻 as a visiting researcher!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> New paper release! <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>: a literature search benchmark for implicit, cumulative, and unmet needs.
+    <strong>[Oct 2026]</strong> New paper release! <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>: a scientific literature search benchmark for implicit, cumulative, and unmet needs.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> New paper release! <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>: a benchmark for finding papers that inspire new research.
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Sep 2026]</strong> Received the <strong>Youlchon AI Star Fellowship</strong>!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! 🎉
@@ -322,7 +325,7 @@ redirect_from:
 
 <div class="pub-item" id="pub-exfuntube" data-thread="multimodal" data-first="true">
   <div class="pub-img">
-    <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="ExFunTube">
+    <img src="/images/exfuntube_fig1.png" alt="Figure 1 of the ExFunTube paper">
   </div>
   <div class="pub-detail">
     <div class="pub-title">Can Language Models Laugh at YouTube Short-form Videos?</div>
