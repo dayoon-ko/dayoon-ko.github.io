@@ -152,7 +152,7 @@ redirect_from:
   Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Prof. Gunhee Kim</a>.
   Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
   <br><br>
-  I love defining research problems that start from how people actually use models. My central question is how models find, verify, and use external knowledge.
+  I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing multimodal environments where people actually use them.
   <br><br>
   Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
   I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
