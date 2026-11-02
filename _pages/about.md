@@ -101,12 +101,6 @@ redirect_from:
   margin-bottom: 12px;
 }
 
-.pub-description {
-  font-size: 14px;
-  color: #666;
-  line-height: 1.6;
-}
-
 .edu-section {
   margin-top: 40px;
 }
@@ -193,7 +187,6 @@ redirect_from:
     <div class="pub-title">CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Soyeong Jeong, Young-Jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
     <div class="pub-venue">arXiv 2026</div>
-    <div class="pub-description">A scientific literature search benchmark across all eight arXiv domains, with one diagnostic setting each for implicit, cumulative, and unmet needs. The strongest agents answer 86–87% of standard queries, but fall to 66–68% when requirements are implicit and abstain on at most 53% of the queries no paper satisfies.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2610.28658" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://dayoon-ko.github.io/CompLit/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Project Page]</a>
@@ -211,7 +204,6 @@ redirect_from:
     <div class="pub-title">ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research</div>
     <div class="pub-authors">Sohyeon Kim, Yoonho Lee, Bo Liu, <strong>Dayoon Ko</strong>, Rulin Shao, Seungone Kim, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn</div>
     <div class="pub-venue">arXiv 2026</div>
-    <div class="pub-description">A literature inspiration retrieval benchmark grounded in researchers' firsthand knowledge of their own projects: 184 researchers who led 207 recent CS projects verified 894 research questions, labeling which prior papers did or could have advanced their work.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2610.02202" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/stanford-iris-lab/ScholarCatalyst" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Code]</a>
@@ -228,7 +220,6 @@ redirect_from:
     <div class="pub-title">K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts</div>
     <div class="pub-authors">Nahyun Lee, Dongkeun Yoon, Guijin Son, Geewook Kim, <strong>Dayoon Ko</strong>, Jeonghun Park, Haneul Yoo, Jaewon Cho, Junghun Park, Changyoon Lee, Kyochul Jang, Jaeyeon Kim, Eunsu Kim, Woojin Cho, Seungone Kim</div>
     <div class="pub-venue">EMNLP 2026 Findings</div>
-    <div class="pub-description">A 400-problem web-browsing agent benchmark grounded in Korean contexts, with a 300-problem subset verified by native Korean speakers. Frontier LLMs reach only 30–46% on the verified subset, a substantial drop from BrowseComp.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2606.02404" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/prometheus-eval/K-BrowseComp" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -244,7 +235,6 @@ redirect_from:
     <div class="pub-title">When Is Enough Not Enough? Illusory Completion in Search Agents</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Sohyeon Kim, Haeju Park, Dahyun Lee, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
     <div class="pub-venue">COLM 2026 Workshop</div>
-    <div class="pub-description">A correct final answer does not show whether a search agent verified every constraint. We introduce the Epistemic Ledger to evaluate verification along agent trajectories, revealing illusory completion: agents conclude while constraints remain assumed, refuted, or unchecked, even in their correct answers.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2602.07549" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/illusory_completion" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -260,7 +250,6 @@ redirect_from:
     <div class="pub-title">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jihyuk Kim, Haeju Park, Sohyeon Kim, Dahyun Lee, Yongrae Jo, Gunhee Kim, Moontae Lee, Kyungjae Lee</div>
     <div class="pub-venue">ICLR 2026</div>
-    <div class="pub-description">A scalable search agent that dynamically integrates parallel and sequential search strategies for multi-hop QA with RAG. We introduce the HDS-QA training dataset and achieve significant improvements.</div>
     <div style="margin-top: 10px;">
       <a href="https://openreview.net/forum?id=rXpTZyucal" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/HybridDeepSearcher" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Code]</a>
@@ -277,7 +266,6 @@ redirect_from:
     <div class="pub-title">When Should Dense Retrievers Be Updated in Evolving Corpora? Detecting Out-of-Distribution Corpora Using GradNormIR</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jinyoung Kim, Sohyeon Kim, Jinhyuk Kim, Jaehoon Lee, Seonghak Song, Minyoung Lee, Gunhee Kim</div>
     <div class="pub-venue">ACL 2025 Findings</div>
-    <div class="pub-description">We propose GradNormIR, an unsupervised method that detects out-of-distribution shifts in document collections using gradient norms, enabling timely updates of dense retrievers without manual intervention.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2506.01877" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/gradnormir" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -293,7 +281,6 @@ redirect_from:
     <div class="pub-title">Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates</div>
     <div class="pub-authors">Jaewoo Ahn, Heeseung Yun, <strong>Dayoon Ko</strong>, Gunhee Kim</div>
     <div class="pub-venue">ACL 2025</div>
-    <div class="pub-description">We introduce MAC benchmark for evaluating the robustness of pre-trained multimodal models against adversarial text updates, revealing vulnerabilities in vision-language models like CLIP.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2505.22943" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/ahnjaewoo/MAC" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -309,7 +296,6 @@ redirect_from:
     <div class="pub-title">DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG</div>
     <div class="pub-authors">Jinyoung Kim, <strong>Dayoon Ko</strong>, Gunhee Kim</div>
     <div class="pub-venue">EMNLP 2024</div>
-    <div class="pub-description">This work addresses challenges in resolving temporally evolving mentions to entities. Resolving mentions is key to improving retrieval, enhancing RAG accuracy in dynamic environments.</div>
     <div style="margin-top: 10px;">
       <a href="https://arxiv.org/abs/2410.11494" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/jiny1623/DynamicER" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -325,7 +311,6 @@ redirect_from:
     <div class="pub-title">GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Jinyoung Kim, Hahyeon Choi, Gunhee Kim</div>
     <div class="pub-venue">ACL 2024</div>
-    <div class="pub-description">We propose QA & dialogue benchmarks that are continuously and automatically updated to assess whether LLMs can handle evolving knowledge. By making LLMs evaluate their confidence, we enable RAG systems to adapt to new knowledge without retraining.</div>
     <div style="margin-top: 10px;">
       <a href="https://aclanthology.org/2024.acl-long.181/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/GrowOVER" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
@@ -341,7 +326,6 @@ redirect_from:
     <div class="pub-title">Can Language Models Laugh at YouTube Short-form Videos?</div>
     <div class="pub-authors"><strong>Dayoon Ko</strong>, Sangho Lee, Gunhee Kim</div>
     <div class="pub-venue">EMNLP 2023</div>
-    <div class="pub-description">A video humor explanation benchmark via a multimodal-filtering pipeline to evaluate LLMs' understanding of complex multimodal tasks like humor. We generate several frame captions and filter them based on video segments to enhance LLMs with vision capabilities.</div>
     <div style="margin-top: 10px;">
       <a href="https://aclanthology.org/2023.emnlp-main.176/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
       <a href="https://github.com/dayoon-ko/ExFunTube" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[Code]</a>
