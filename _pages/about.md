@@ -26,7 +26,7 @@ redirect_from:
 .news-section h2 {
   margin-top: 0;
   color: #2c3e50;
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 15px;
 }
 
@@ -37,7 +37,7 @@ redirect_from:
 }
 
 .section-title {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 600;
   color: #2c3e50;
   margin-top: 40px;
@@ -81,7 +81,7 @@ redirect_from:
 }
 
 .pub-title {
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 600;
   color: #2c3e50;
   margin-bottom: 12px;
