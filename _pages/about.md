@@ -162,16 +162,16 @@ redirect_from:
     <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> as a visiting researcher! 🐻
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out! Read the <a href="https://arxiv.org/abs/2610.28658" target="_blank">paper</a>.
+    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a literature search benchmark for implicit, cumulative, and unmet needs, is <a href="https://arxiv.org/abs/2610.28658" target="_blank">on arXiv</a>!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>, a benchmark for retrieving papers that inspire new research, is out on arXiv!
+    <strong>[Oct 2026]</strong> <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>, a benchmark for finding papers that inspire new research, is on arXiv!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> has been accepted at <strong>EMNLP 2026 Findings</strong>! 🎉
+    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! 🎉
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"When Is Enough Not Enough? Illusory Completion in Search Agents"</strong></a> has been accepted at a <strong>COLM 2026 Workshop</strong>!
+    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"Illusory Completion in Search Agents"</strong></a> accepted to a <strong>COLM 2026 Workshop</strong>!
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
