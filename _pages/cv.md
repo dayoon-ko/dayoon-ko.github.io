@@ -95,6 +95,36 @@ redirect_from:
 </div>
 
 <div class="cv-section">
+  <h2>Honors</h2>
+
+  <div class="cv-item">
+    <div class="cv-item-title">Youlchon AI Star Fellowship</div>
+    <div class="cv-item-institution">Youlchon Foundation and Seoul National University AI Institute</div>
+    <div class="cv-item-period">2026</div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-item-title">Graduation Exhibition Excellence Award</div>
+    <div class="cv-item-institution">Yonsei University, Computer Science</div>
+    <div class="cv-item-detail">Project on mitigating data imbalance in image classification</div>
+    <div class="cv-item-period">February 2022</div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-item-title">Udeok Scholarship</div>
+    <div class="cv-item-institution">Udeok Foundation</div>
+    <div class="cv-item-detail">Academic excellence scholarship, with full tuition during undergraduate years</div>
+    <div class="cv-item-period">February 2019 - August 2022</div>
+  </div>
+
+  <div class="cv-item">
+    <div class="cv-item-title">Academic Excellence Award</div>
+    <div class="cv-item-institution">Yonsei University</div>
+    <div class="cv-item-detail">For semester grades</div>
+  </div>
+</div>
+
+<div class="cv-section">
   <h2>Research Interests</h2>
   <ul style="font-size: 15px; line-height: 1.8; color: #555;">
     <li>Retrieval-Augmented Generation (RAG)</li>

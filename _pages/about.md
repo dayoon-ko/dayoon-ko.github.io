@@ -168,13 +168,13 @@ redirect_from:
     <strong>[Oct 2026]</strong> New paper release! <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>: a benchmark for finding papers that inspire new research.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> Received the <strong>Youlchon AI Star Fellowship</strong>!
+    <strong>[Sep 2026]</strong> Received the <strong>Youlchon AI Star Fellowship</strong>! 🎉
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! 🎉
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"Illusory Completion in Search Agents"</strong></a> accepted to the <strong>Workshop on Agent Behavior</strong> at COLM 2026!
+    <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2602.07549" target="_blank"><strong>"Illusory Completion in Search Agents"</strong></a> accepted to the <strong>Workshop on Agent Behavior</strong> at COLM 2026! 🎉
   </div>
   <!-- <div class="news-item" style="margin-bottom: 12px;">
     <strong>[May 2025]</strong> Two papers accepted at <strong>ACL 2025</strong>! "GradNormIR" (Findings) and "Can LLMs Deceive CLIP?" (Main)
