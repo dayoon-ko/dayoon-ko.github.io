@@ -143,13 +143,9 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-  Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Gunhee Kim</a>.
-  Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Sewon Min</a>.
+  Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at SNU, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Gunhee Kim</a>. Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Sewon Min</a>.
   <br><br>
-  I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing multimodal environments where people actually use them.
-  <br><br>
-  Right now, I’m working on <strong>on-device multimodal retrieval</strong>, where models must search over the photos, videos, and documents people keep on their own devices, under tight memory and compute budgets.
-  I have worked on <strong>search agents</strong>, scaling their search reasoning, checking whether they verify what they claim, and evaluating them in realistic settings, as well as on <strong>keeping LLMs and RAG systems up to date</strong> as real-world knowledge evolves.
+  I love to define practical problems that appear when people use AI in the real world. Starting with whether language models understand humor in short-form videos, I have asked how LLMs and RAG systems keep up with evolving knowledge, whether search agents verify what they claim, and whether they can find the papers researchers actually need. Also, I feel excited when I finally find out how to solve the problems! That has meant scaling search agents with parallel and sequential reasoning, and detecting when a retriever needs an update. Moving forward, I’ve recently been focusing on on-device multimodal retrieval, where models search over what people see and keep on their own devices, under tight memory and compute budgets.
   <br><br>
   Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
