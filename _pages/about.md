@@ -373,3 +373,29 @@ redirect_from:
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">March 2018 - August 2022</div>
   </div>
 </div>
+
+<div class="edu-section">
+  <h2 class="section-title">Honors</h2>
+  <div class="edu-item">
+    <div class="edu-degree">Youlchon AI Star Fellowship</div>
+    <div class="edu-school">Youlchon Foundation and Seoul National University AI Institute</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">2026</div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">Graduation Exhibition Excellence Award</div>
+    <div class="edu-school">Yonsei University, Computer Science</div>
+    <div class="edu-detail">Project on mitigating data imbalance in image classification</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">Feb 2022</div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">Udeok Scholarship</div>
+    <div class="edu-school">Udeok Foundation</div>
+    <div class="edu-detail">Academic excellence scholarship, with full tuition during undergraduate years</div>
+    <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">Feb 2019 - Aug 2022</div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">Academic Excellence Award</div>
+    <div class="edu-school">Yonsei University</div>
+    <div class="edu-detail">For semester grades</div>
+  </div>
+</div>
