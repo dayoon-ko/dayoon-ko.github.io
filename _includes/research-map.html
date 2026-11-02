@@ -41,7 +41,7 @@
 .pub-filter button:hover, .pub-filter button:focus { background: none; color: #2c3e50; outline: none; }
 .pub-filter button[aria-pressed="true"] { color: #2c3e50; font-weight: 600; }
 .pub-item[hidden] { display: none; }
-.pub-item, #selected-publications { scroll-margin-top: 90px; }
+.pub-item, #publications { scroll-margin-top: 90px; }
 .pub-item.rm-flash { box-shadow: 0 0 0 2px #4a90e2; }
 </style>
 
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var section = document.getElementById('research-map-section');
   var wrap = document.getElementById('research-map');
   var legend = document.getElementById('research-map-legend');
-  var heading = document.getElementById('selected-publications');
+  var heading = document.getElementById('publications');
   var bar = document.getElementById('pub-filter');
   var items = Array.prototype.slice.call(document.querySelectorAll('.pub-item[data-thread]'));
   if (!wrap || !bar || !items.length) return;
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var ACCENT = '#4a90e2';
   var threadKeys = {};
   data.threads.forEach(function (t) { threadKeys[t.key] = true; });
-  var DEFAULT = 'first';
+  var DEFAULT = 'all';
   var filter = DEFAULT;
   var calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var NS = 'http://www.w3.org/2000/svg';
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Filter links above the publication list.
-  [{ key: 'first', name: 'First author' }, { key: 'all', name: 'All' }].concat(data.threads).forEach(function (t, i) {
+  [{ key: 'all', name: 'All' }, { key: 'first', name: 'First author' }].concat(data.threads).forEach(function (t, i) {
     if (i) bar.appendChild(document.createTextNode(' · '));
     var b = document.createElement('button');
     b.type = 'button';

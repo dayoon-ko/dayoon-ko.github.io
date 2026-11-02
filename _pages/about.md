@@ -181,7 +181,7 @@ redirect_from:
   </div> -->
 </div>
 
-<h2 class="section-title" id="selected-publications">Selected Publications</h2>
+<h2 class="section-title" id="publications">Publications</h2>
 <div class="pub-filter" id="pub-filter"></div>
 
 <div class="pub-item" id="pub-complit" data-thread="literature" data-first="true">
