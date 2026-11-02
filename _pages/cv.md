@@ -64,7 +64,7 @@ redirect_from:
   <div class="cv-item">
     <div class="cv-item-title">M.S./Ph.D. in Computer Science and Engineering</div>
     <div class="cv-item-institution">Seoul National University</div>
-    <div class="cv-item-detail">Advisor: Professor Gunhee Kim</div>
+    <div class="cv-item-detail">Advisor: Gunhee Kim</div>
     <div class="cv-item-period">September 2022 - Present</div>
   </div>
 
@@ -82,7 +82,7 @@ redirect_from:
   <div class="cv-item">
     <div class="cv-item-title">Visiting Researcher</div>
     <div class="cv-item-institution">UC Berkeley</div>
-    <div class="cv-item-detail">Hosted by Professor Sewon Min</div>
+    <div class="cv-item-detail">Hosted by Sewon Min</div>
     <div class="cv-item-period">October 2026 - Present</div>
   </div>
 

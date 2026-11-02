@@ -143,8 +143,8 @@ redirect_from:
 </style>
 
 <div class="intro-section">
-  Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Prof. Gunhee Kim</a>.
-  Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Prof. Sewon Min</a>.
+  Hi! I’m Dayoon Ko 😊, a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/" target="_blank">Gunhee Kim</a>.
+  Currently, I’m a visiting researcher at <strong>UC Berkeley</strong>, working with <a href="https://www.sewonmin.com/" target="_blank">Sewon Min</a>.
   <br><br>
   I’m broadly interested in how large language models can find, verify, and use information reliably in the noisy, fast-changing multimodal environments where people actually use them.
   <br><br>
@@ -158,7 +158,7 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Prof. Sewon Min's group! 🐻
+    <strong>[Oct 2026]</strong> Started a visiting research position at <strong>UC Berkeley</strong> with Sewon Min's group! 🐻
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a scientific literature search benchmark for implicit, cumulative, and unmet needs, is out! Read the <a href="https://arxiv.org/abs/2610.28658" target="_blank">paper</a>.
@@ -339,7 +339,7 @@ redirect_from:
   <div class="edu-item">
     <div class="edu-degree">Visiting Researcher</div>
     <div class="edu-school">UC Berkeley</div>
-    <div class="edu-detail">Hosted by Professor Sewon Min</div>
+    <div class="edu-detail">Hosted by Sewon Min</div>
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">October 2026 - Present</div>
   </div>
 
@@ -357,7 +357,7 @@ redirect_from:
   <div class="edu-item">
     <div class="edu-degree">M.S./Ph.D. in Computer Science and Engineering</div>
     <div class="edu-school">Seoul National University</div>
-    <div class="edu-detail">Advisor: Professor Gunhee Kim</div>
+    <div class="edu-detail">Advisor: Gunhee Kim</div>
     <div style="font-size: 14px; color: #888; font-style: italic; margin-top: 5px;">September 2022 - Present</div>
   </div>
 
