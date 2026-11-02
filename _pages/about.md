@@ -159,13 +159,13 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> as a visiting researcher! 🐻
+    <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> 🐻 as a visiting researcher!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>, a literature search benchmark for implicit, cumulative, and unmet needs, is <a href="https://arxiv.org/abs/2610.28658" target="_blank">on arXiv</a>!
+    <strong>[Oct 2026]</strong> New paper release! <a href="https://dayoon-ko.github.io/CompLit/" target="_blank"><strong>"CompLit"</strong></a>: a literature search benchmark for implicit, cumulative, and unmet needs.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Oct 2026]</strong> <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>, a benchmark for finding papers that inspire new research, is on arXiv!
+    <strong>[Oct 2026]</strong> New paper release! <a href="https://arxiv.org/abs/2610.02202" target="_blank"><strong>"ScholarCatalyst"</strong></a>: a benchmark for finding papers that inspire new research.
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Sep 2026]</strong> <a href="https://arxiv.org/abs/2606.02404" target="_blank"><strong>"K-BrowseComp"</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! 🎉
