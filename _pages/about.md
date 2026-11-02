@@ -154,6 +154,7 @@ redirect_from:
   Outside of research, I enjoy dancing 💃 or doing CrossFit 🏋🏻‍♀️. Staying active keeps my brain happy!
 </div>
 
+{% include research-map.html %}
 
 <div class="news-section">
   <h2>🔥 Recent News</h2>
@@ -177,9 +178,10 @@ redirect_from:
   </div> -->
 </div>
 
-<h2 class="section-title">Selected Publications</h2>
+<h2 class="section-title" id="selected-publications">Selected Publications</h2>
+<div class="pub-filter" id="pub-filter"></div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-complit" data-thread="literature" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/complit.png" alt="CompLit">
   </div>
@@ -196,7 +198,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-scholarcatalyst" data-thread="literature" data-first="false">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/scholarcatalyst.png" alt="ScholarCatalyst">
   </div>
@@ -212,7 +214,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-kbrowsecomp" data-thread="agents" data-first="false">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/kbrowsecomp.png" alt="K-BrowseComp">
   </div>
@@ -227,7 +229,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-illusory" data-thread="agents" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/illusory_completion.png" alt="Illusory Completion">
   </div>
@@ -242,7 +244,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-hybrid" data-thread="agents" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/hds.png" alt="HybridDeepSearcher">
   </div>
@@ -258,7 +260,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-gradnormir" data-thread="evolving" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/gradnormir.png" alt="GradNormIR">
   </div>
@@ -273,7 +275,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-mac" data-thread="multimodal" data-first="false">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/mac.png" alt="MAC">
   </div>
@@ -288,7 +290,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-dynamicer" data-thread="evolving" data-first="false">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/dynamicer.png" alt="DynamicER">
   </div>
@@ -303,7 +305,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-growover" data-thread="evolving" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/growover.png" alt="GrowOVER">
   </div>
@@ -318,7 +320,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" id="pub-exfuntube" data-thread="multimodal" data-first="true">
   <div class="pub-img">
     <img src="https://dayoon-ko.github.io/images/exfuntube.png" alt="ExFunTube">
   </div>

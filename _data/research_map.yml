@@ -1,0 +1,23 @@
+# Research map on the home page. `id` matches the pub-<id> element in _pages/about.md.
+# side: where the label sits relative to the line (above, below, left, below-right).
+threads:
+  - key: multimodal
+    name: Multimodal understanding
+  - key: evolving
+    name: Evolving knowledge
+  - key: agents
+    name: Search agents
+  - key: literature
+    name: Scientific literature search
+
+stations:
+  - {id: exfuntube, label: Short-form humor, venue: EMNLP 23, thread: multimodal, y: 2023, m: 12, first: true, side: above}
+  - {id: mac, label: Deceiving CLIP, venue: ACL 25, thread: multimodal, y: 2025, m: 5, first: false, side: above}
+  - {id: growover, label: GrowOVER, venue: ACL 24, thread: evolving, y: 2024, m: 7, first: true, side: above}
+  - {id: dynamicer, label: DynamicER, venue: EMNLP 24, thread: evolving, y: 2024, m: 10, first: false, side: below}
+  - {id: gradnormir, label: GradNormIR, venue: ACL 25 Findings, thread: evolving, y: 2025, m: 5, first: true, side: above}
+  - {id: hybrid, label: Hybrid Deep Searcher, venue: ICLR 26, thread: agents, y: 2026, m: 1, first: true, side: left}
+  - {id: illusory, label: Illusory completion, venue: COLM 26 Workshop, thread: agents, y: 2026, m: 8, first: true, side: above}
+  - {id: kbrowsecomp, label: K-BrowseComp, venue: EMNLP 26 Findings, thread: agents, y: 2026, m: 9, first: false, side: below}
+  - {id: scholarcatalyst, label: ScholarCatalyst, venue: arXiv 26, thread: literature, y: 2026, m: 10, first: false, side: left, nudge: -14}
+  - {id: complit, label: CompLit, venue: arXiv 26, thread: literature, y: 2026, m: 10, first: true, side: below-right}
