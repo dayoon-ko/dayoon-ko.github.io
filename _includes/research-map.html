@@ -225,7 +225,6 @@ document.addEventListener('DOMContentLoaded', function () {
     setFilter(filter);
   }
 
-  // Filter links above the publication list.
   [{ key: 'all', name: 'All' }, { key: 'first', name: 'First author' }].concat(data.threads).forEach(function (t, i) {
     if (i) bar.appendChild(document.createTextNode(' · '));
     var b = document.createElement('button');
