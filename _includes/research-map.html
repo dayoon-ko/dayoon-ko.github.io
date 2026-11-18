@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function drawHorizontal(W) {
     var leftCol = 150, rightPad = 60, top = 42, rowH = 62;
-    var perMonth = (W - leftCol - rightPad) / 34;
+    var perMonth = (W - leftCol - rightPad) / 35;
     var total = top + data.threads.length * rowH + 8;
     function x(y, m) { return leftCol + ((y - 2023) * 12 + (m - 12)) * perMonth; }
     function rowY(i) { return top + i * rowH; }
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var g = svgEl('g', { class: 'rm-thread', 'data-thread': t.key }, svg);
       var starts = here.map(function (s) { return x(s.y, s.m) + (s.nudge || 0); });
       var x0 = starts.length ? Math.min.apply(null, starts) : leftCol;
-      svgEl('line', { x1: x0, x2: x(2026, 10) + 22, y1: yy, y2: yy, stroke: ACCENT, 'stroke-width': 3, 'stroke-linecap': 'round' }, g);
+      svgEl('line', { x1: x0, x2: x(2026, 11) + 22, y1: yy, y2: yy, stroke: ACCENT, 'stroke-width': 3, 'stroke-linecap': 'round' }, g);
       here.forEach(function (s) {
         var px = x(s.y, s.m) + (s.nudge || 0);
         var a = svgEl('g', { class: 'rm-st', role: 'link', tabindex: 0, 'data-id': s.id, 'aria-label': s.label + ', ' + s.venue }, g);
