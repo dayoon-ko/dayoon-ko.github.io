@@ -36,6 +36,21 @@ redirect_from:
   color: #555;
 }
 
+.news-item .cmd {
+  display: inline-block;
+  font-family: Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #2c3e50;
+  background-color: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 5px;
+  padding: 1px 7px;
+  margin: 0 2px;
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+
 .section-title {
   font-size: 20px;
   font-weight: 600;
@@ -157,7 +172,7 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
-    <strong>[Nov 2026]</strong> New paper and tool release! <a href="https://arxiv.org/abs/2611.18516" target="_blank"><strong>"StreamEmbed"</strong></a>: real-time visual indexing of your screen history, fully on-device. Try it with <code>pip install streamembed</code>!
+    <strong>[Nov 2026]</strong> New paper and tool release! <a href="https://arxiv.org/abs/2611.18516" target="_blank"><strong>"StreamEmbed"</strong></a>: real-time visual indexing of your screen history, fully on-device. Try it with <span class="cmd">pip install streamembed</span>
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> 🐻 as a visiting researcher!
