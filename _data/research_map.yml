@@ -13,6 +13,7 @@ threads:
 stations:
   - {id: exfuntube, label: Short-form humor, venue: EMNLP 23, thread: multimodal, y: 2023, m: 12, first: true, side: above}
   - {id: mac, label: Deceiving CLIP, venue: ACL 25, thread: multimodal, y: 2025, m: 5, first: false, side: above}
+  - {id: streamembed, label: StreamEmbed, venue: arXiv 26, thread: multimodal, y: 2026, m: 11, first: true, side: above}
   - {id: growover, label: GrowOVER, venue: ACL 24, thread: evolving, y: 2024, m: 7, first: true, side: above}
   - {id: dynamicer, label: DynamicER, venue: EMNLP 24, thread: evolving, y: 2024, m: 10, first: false, side: below}
   - {id: gradnormir, label: GradNormIR, venue: ACL 25 Findings, thread: evolving, y: 2025, m: 5, first: true, side: above}

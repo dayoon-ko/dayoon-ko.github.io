@@ -157,6 +157,9 @@ redirect_from:
 <div class="news-section">
   <h2>🔥 Recent News</h2>
   <div class="news-item" style="margin-bottom: 12px;">
+    <strong>[Nov 2026]</strong> New paper and tool release! <a href="https://arxiv.org/abs/2611.18516" target="_blank"><strong>"StreamEmbed"</strong></a>: real-time visual indexing of your screen history, fully on-device. Try it with <code>pip install streamembed</code>!
+  </div>
+  <div class="news-item" style="margin-bottom: 12px;">
     <strong>[Oct 2026]</strong> Joined Sewon Min's group at <strong>UC Berkeley</strong> 🐻 as a visiting researcher!
   </div>
   <div class="news-item" style="margin-bottom: 12px;">
@@ -175,6 +178,22 @@ redirect_from:
 
 <h2 class="section-title" id="publications">Publications</h2>
 <div class="pub-filter" id="pub-filter"></div>
+
+<div class="pub-item" id="pub-streamembed" data-thread="multimodal" data-first="true">
+  <div class="pub-img">
+    <img src="https://dayoon-ko.github.io/images/streamembed.png" alt="StreamEmbed">
+  </div>
+  <div class="pub-detail">
+    <div class="pub-title">StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval</div>
+    <div class="pub-authors"><strong>Dayoon Ko</strong>, Yichuan Wang, Soyeong Jeong, Joseph E. Gonzalez, Gunhee Kim, Sewon Min</div>
+    <div class="pub-venue">arXiv 2026</div>
+    <div style="margin-top: 10px;">
+      <a href="https://arxiv.org/abs/2611.18516" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Paper]</a>
+      <a href="https://github.com/StarTrail-org/StreamEmbed" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px; margin-right: 5px;">[Code]</a>
+      <a href="https://pypi.org/project/streamembed/" target="_blank" style="color: #4a90e2; text-decoration: none; font-size: 14px;">[PyPI]</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-item" id="pub-complit" data-thread="literature" data-first="true">
   <div class="pub-img">
